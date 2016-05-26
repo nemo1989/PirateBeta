@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 7f653b30823ff47269689c7a7544fe7f
+timeCreated: 1434815916
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blind_Terror_sword_0
+    21300002: Blind_Terror_sword_1
+    21300004: Blind_Terror_sword_2
+    21300006: Blind_Terror_sword_3
+    21300008: Blind_Terror_sword_4
+    21300010: Blind_Terror_sword_5
+    21300012: Blind_Terror_sword_6
+    21300014: Blind_Terror_sword_7
+    21300016: Blind_Terror_sword_8
+    21300018: Blind_Terror_sword_9
+    21300020: Blind_Terror_sword_10
+    21300022: Blind_Terror_sword_11
+    21300024: Blind_Terror_sword_12
+    21300026: Blind_Terror_sword_13
+    21300028: Blind_Terror_sword_14
+    21300030: Blind_Terror_sword_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Blind_Terror_sword_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 301
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 301
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 301
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 301
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 204
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 204
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 204
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 204
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 114
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 114
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 114
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 114
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 20
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 20
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blind_Terror_sword_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 20
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

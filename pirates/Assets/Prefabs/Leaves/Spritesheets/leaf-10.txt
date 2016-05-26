@@ -1,0 +1,252 @@
+{"frames": {
+
+"Leaf-10_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00001.png":
+{
+	"frame": {"x":170,"y":0,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00002.png":
+{
+	"frame": {"x":340,"y":0,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00003.png":
+{
+	"frame": {"x":510,"y":0,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00004.png":
+{
+	"frame": {"x":680,"y":0,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00005.png":
+{
+	"frame": {"x":850,"y":0,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00006.png":
+{
+	"frame": {"x":0,"y":110,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00007.png":
+{
+	"frame": {"x":170,"y":110,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00008.png":
+{
+	"frame": {"x":340,"y":110,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00009.png":
+{
+	"frame": {"x":510,"y":110,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00010.png":
+{
+	"frame": {"x":680,"y":110,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00011.png":
+{
+	"frame": {"x":850,"y":110,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00012.png":
+{
+	"frame": {"x":0,"y":220,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00013.png":
+{
+	"frame": {"x":170,"y":220,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00014.png":
+{
+	"frame": {"x":340,"y":220,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00015.png":
+{
+	"frame": {"x":510,"y":220,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00016.png":
+{
+	"frame": {"x":680,"y":220,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00017.png":
+{
+	"frame": {"x":850,"y":220,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00018.png":
+{
+	"frame": {"x":0,"y":330,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00019.png":
+{
+	"frame": {"x":170,"y":330,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00020.png":
+{
+	"frame": {"x":340,"y":330,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00021.png":
+{
+	"frame": {"x":510,"y":330,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00022.png":
+{
+	"frame": {"x":680,"y":330,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00023.png":
+{
+	"frame": {"x":850,"y":330,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00024.png":
+{
+	"frame": {"x":0,"y":440,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00025.png":
+{
+	"frame": {"x":170,"y":440,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00026.png":
+{
+	"frame": {"x":340,"y":440,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00027.png":
+{
+	"frame": {"x":510,"y":440,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00028.png":
+{
+	"frame": {"x":680,"y":440,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+},
+"Leaf-10_00029.png":
+{
+	"frame": {"x":850,"y":440,"w":170,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":110},
+	"sourceSize": {"w":170,"h":110}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "leaf-10.png",
+	"format": "RGBA8888",
+	"size": {"w":1020,"h":550},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:03b05c184b35461b41ddd666877980c4$"
+}
+}

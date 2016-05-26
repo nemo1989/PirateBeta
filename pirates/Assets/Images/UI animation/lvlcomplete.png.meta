@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: cf3843a9eb38b27468284c31cf68e2e6
+timeCreated: 1445545408
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lvlcomplete_0
+    21300002: lvlcomplete_1
+    21300004: lvlcomplete_2
+    21300006: lvlcomplete_3
+    21300008: lvlcomplete_4
+    21300010: lvlcomplete_5
+    21300012: lvlcomplete_6
+    21300014: lvlcomplete_7
+    21300016: lvlcomplete_8
+    21300018: lvlcomplete_9
+    21300020: lvlcomplete_10
+    21300022: lvlcomplete_11
+    21300024: lvlcomplete_12
+    21300026: lvlcomplete_13
+    21300028: lvlcomplete_14
+    21300030: lvlcomplete_15
+    21300032: lvlcomplete_16
+    21300034: lvlcomplete_17
+    21300036: lvlcomplete_18
+    21300038: lvlcomplete_19
+    21300040: lvlcomplete_20
+    21300042: lvlcomplete_21
+    21300044: lvlcomplete_22
+    21300046: lvlcomplete_23
+    21300048: lvlcomplete_24
+    21300050: lvlcomplete_25
+    21300052: lvlcomplete_26
+    21300054: lvlcomplete_27
+    21300056: lvlcomplete_28
+    21300058: lvlcomplete_29
+    21300060: lvlcomplete_30
+    21300062: lvlcomplete_31
+    21300064: lvlcomplete_32
+    21300066: lvlcomplete_33
+    21300068: lvlcomplete_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: lvlcomplete_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1967
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1967
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1886
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1886
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1805
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1805
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1724
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1724
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1643
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1643
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1562
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1562
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1481
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1481
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1400
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1319
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1319
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1238
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1157
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1157
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1076
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1076
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 995
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 995
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 914
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 833
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 752
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_33
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 671
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lvlcomplete_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 430
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

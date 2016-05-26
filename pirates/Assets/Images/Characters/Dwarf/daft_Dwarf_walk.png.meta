@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: e3cc36d408709c8428e2cf77aef47c92
+timeCreated: 1450380587
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: daft_Dwarf_walk_0
+    21300002: daft_Dwarf_walk_1
+    21300004: daft_Dwarf_walk_2
+    21300006: daft_Dwarf_walk_3
+    21300008: daft_Dwarf_walk_4
+    21300010: daft_Dwarf_walk_5
+    21300012: daft_Dwarf_walk_6
+    21300014: daft_Dwarf_walk_7
+    21300016: daft_Dwarf_walk_8
+    21300018: daft_Dwarf_walk_9
+    21300020: daft_Dwarf_walk_10
+    21300022: daft_Dwarf_walk_11
+    21300024: daft_Dwarf_walk_12
+    21300026: daft_Dwarf_walk_13
+    21300028: daft_Dwarf_walk_14
+    21300030: daft_Dwarf_walk_15
+    21300032: daft_Dwarf_walk_16
+    21300034: daft_Dwarf_walk_17
+    21300036: daft_Dwarf_walk_18
+    21300038: daft_Dwarf_walk_19
+    21300040: daft_Dwarf_walk_20
+    21300042: daft_Dwarf_walk_21
+    21300044: daft_Dwarf_walk_22
+    21300046: daft_Dwarf_walk_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: daft_Dwarf_walk_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 316
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 316
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 313
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 316
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 316
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 313
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 222
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 222
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 223
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 222
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 222
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 223
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 133
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 133
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 134
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 133
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 133
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 134
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 36
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 36
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 36
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 36
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Dwarf_walk_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 36
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

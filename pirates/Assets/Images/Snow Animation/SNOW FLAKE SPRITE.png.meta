@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 39249ec5761df7b499be893f186e498b
+timeCreated: 1445366948
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNOW FLAKE SPRITE_0
+    21300002: SNOW FLAKE SPRITE_1
+    21300004: SNOW FLAKE SPRITE_2
+    21300006: SNOW FLAKE SPRITE_3
+    21300008: SNOW FLAKE SPRITE_4
+    21300010: SNOW FLAKE SPRITE_5
+    21300012: SNOW FLAKE SPRITE_6
+    21300014: SNOW FLAKE SPRITE_7
+    21300016: SNOW FLAKE SPRITE_8
+    21300018: SNOW FLAKE SPRITE_9
+    21300020: SNOW FLAKE SPRITE_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: SNOW FLAKE SPRITE_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 226
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 11
+        width: 210
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 11
+        width: 191
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 11
+        width: 172
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 12
+        width: 150
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_5
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 12
+        width: 125
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_6
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 11
+        width: 94
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_7
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 11
+        width: 68
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_8
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 12
+        width: 49
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_9
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 11
+        width: 30
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNOW FLAKE SPRITE_10
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 12
+        width: 20
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

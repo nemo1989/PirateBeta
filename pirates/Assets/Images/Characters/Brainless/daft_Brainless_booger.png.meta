@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: fd02961873d2caa48b9f4ef83ad8305a
+timeCreated: 1441036261
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: daft_Brainless_booger_0
+    21300002: daft_Brainless_booger_1
+    21300004: daft_Brainless_booger_2
+    21300006: daft_Brainless_booger_3
+    21300008: daft_Brainless_booger_4
+    21300010: daft_Brainless_booger_5
+    21300012: daft_Brainless_booger_6
+    21300014: daft_Brainless_booger_7
+    21300016: daft_Brainless_booger_8
+    21300018: daft_Brainless_booger_9
+    21300020: daft_Brainless_booger_10
+    21300022: daft_Brainless_booger_11
+    21300024: daft_Brainless_booger_12
+    21300026: daft_Brainless_booger_13
+    21300028: daft_Brainless_booger_14
+    21300030: daft_Brainless_booger_15
+    21300032: daft_Brainless_booger_16
+    21300034: daft_Brainless_booger_17
+    21300036: daft_Brainless_booger_18
+    21300038: daft_Brainless_booger_19
+    21300040: daft_Brainless_booger_20
+    21300042: daft_Brainless_booger_21
+    21300044: daft_Brainless_booger_22
+    21300046: daft_Brainless_booger_23
+    21300048: daft_Brainless_booger_24
+    21300050: daft_Brainless_booger_25
+    21300052: daft_Brainless_booger_26
+    21300054: daft_Brainless_booger_27
+    21300056: daft_Brainless_booger_28
+    21300058: daft_Brainless_booger_29
+    21300060: daft_Brainless_booger_30
+    21300062: daft_Brainless_booger_31
+    21300064: daft_Brainless_booger_32
+    21300066: daft_Brainless_booger_33
+    21300068: daft_Brainless_booger_34
+    21300070: daft_Brainless_booger_35
+    21300072: daft_Brainless_booger_36
+    21300074: daft_Brainless_booger_37
+    21300076: daft_Brainless_booger_38
+    21300078: daft_Brainless_booger_39
+    21300080: daft_Brainless_booger_40
+    21300082: daft_Brainless_booger_41
+    21300084: daft_Brainless_booger_42
+    21300086: daft_Brainless_booger_43
+    21300088: daft_Brainless_booger_44
+    21300090: daft_Brainless_booger_45
+    21300092: daft_Brainless_booger_46
+    21300094: daft_Brainless_booger_47
+    21300096: daft_Brainless_booger_48
+    21300098: daft_Brainless_booger_49
+    21300100: daft_Brainless_booger_50
+    21300102: daft_Brainless_booger_51
+    21300104: daft_Brainless_booger_52
+    21300106: daft_Brainless_booger_53
+    21300108: daft_Brainless_booger_54
+    21300110: daft_Brainless_booger_55
+    21300112: daft_Brainless_booger_56
+    21300114: daft_Brainless_booger_57
+    21300116: daft_Brainless_booger_58
+    21300118: daft_Brainless_booger_59
+    21300120: daft_Brainless_booger_60
+    21300122: daft_Brainless_booger_61
+    21300124: daft_Brainless_booger_62
+    21300126: daft_Brainless_booger_63
+    21300128: daft_Brainless_booger_64
+    21300130: daft_Brainless_booger_65
+    21300132: daft_Brainless_booger_66
+    21300134: daft_Brainless_booger_67
+    21300136: daft_Brainless_booger_68
+    21300138: daft_Brainless_booger_69
+    21300140: daft_Brainless_booger_70
+    21300142: daft_Brainless_booger_71
+    21300144: daft_Brainless_booger_72
+    21300146: daft_Brainless_booger_73
+    21300148: daft_Brainless_booger_74
+    21300150: daft_Brainless_booger_75
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: daft_Brainless_booger_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 302
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 302
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 302
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 302
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 302
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 302
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 302
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_7
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 302
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_8
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 302
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_9
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 302
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_10
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 302
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_11
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 302
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_12
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 302
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_13
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 302
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_14
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 302
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_15
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 302
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_16
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 302
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_17
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 302
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_18
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 302
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 210
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_25
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 210
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_26
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_27
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 210
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_28
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 210
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_29
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 210
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_30
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 210
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 210
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_32
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 210
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_33
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_34
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_35
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_36
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_37
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 210
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_38
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 118
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_41
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_42
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 118
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_43
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_44
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 118
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_46
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 118
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_47
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 118
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_48
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 118
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_49
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 118
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_50
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 118
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_51
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 118
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_52
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_53
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_54
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_55
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_56
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 118
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 23
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 23
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 23
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_60
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 23
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_61
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 23
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_62
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 23
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_63
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 23
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_64
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 23
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_65
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 23
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_66
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 23
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_67
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 23
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_68
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 23
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_69
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 23
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_70
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 23
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_71
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 23
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_72
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 23
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_73
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 23
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_74
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 23
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_booger_75
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 23
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

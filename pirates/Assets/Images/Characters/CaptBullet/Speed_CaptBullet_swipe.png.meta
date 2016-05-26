@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 615617e1cd58bcf4694cd2d9f2eae074
+timeCreated: 1440956058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Speed_CaptBullet_swipe_0
+    21300002: Speed_CaptBullet_swipe_1
+    21300004: Speed_CaptBullet_swipe_2
+    21300006: Speed_CaptBullet_swipe_3
+    21300008: Speed_CaptBullet_swipe_4
+    21300010: Speed_CaptBullet_swipe_5
+    21300012: Speed_CaptBullet_swipe_6
+    21300014: Speed_CaptBullet_swipe_7
+    21300016: Speed_CaptBullet_swipe_8
+    21300018: Speed_CaptBullet_swipe_9
+    21300020: Speed_CaptBullet_swipe_10
+    21300022: Speed_CaptBullet_swipe_11
+    21300024: Speed_CaptBullet_swipe_12
+    21300026: Speed_CaptBullet_swipe_13
+    21300028: Speed_CaptBullet_swipe_14
+    21300030: Speed_CaptBullet_swipe_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Speed_CaptBullet_swipe_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 397
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 397
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 397
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 397
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 308
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 308
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 308
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 308
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 217
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 217
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 217
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 217
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 127
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 127
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_CaptBullet_swipe_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 127
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

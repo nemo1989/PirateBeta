@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: d1e53625e2e1e044bae73359c1583237
+timeCreated: 1439916930
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CannonBallSheet_0
+    21300002: CannonBallSheet_1
+    21300004: CannonBallSheet_2
+    21300006: CannonBallSheet_3
+    21300008: CannonBallSheet_4
+    21300010: CannonBallSheet_5
+    21300012: CannonBallSheet_6
+    21300014: CannonBallSheet_7
+    21300016: CannonBallSheet_8
+    21300018: CannonBallSheet_9
+    21300020: CannonBallSheet_10
+    21300022: CannonBallSheet_11
+    21300024: CannonBallSheet_12
+    21300026: CannonBallSheet_13
+    21300028: CannonBallSheet_14
+    21300030: CannonBallSheet_15
+    21300032: CannonBallSheet_16
+    21300034: CannonBallSheet_17
+    21300036: CannonBallSheet_18
+    21300038: CannonBallSheet_19
+    21300040: CannonBallSheet_20
+    21300042: CannonBallSheet_21
+    21300044: CannonBallSheet_22
+    21300046: CannonBallSheet_23
+    21300048: CannonBallSheet_24
+    21300050: CannonBallSheet_25
+    21300052: CannonBallSheet_26
+    21300054: CannonBallSheet_27
+    21300056: CannonBallSheet_28
+    21300058: CannonBallSheet_29
+    21300060: CannonBallSheet_30
+    21300062: CannonBallSheet_31
+    21300064: CannonBallSheet_32
+    21300066: CannonBallSheet_33
+    21300068: CannonBallSheet_34
+    21300070: CannonBallSheet_35
+    21300072: CannonBallSheet_36
+    21300074: CannonBallSheet_37
+    21300076: CannonBallSheet_38
+    21300078: CannonBallSheet_39
+    21300080: CannonBallSheet_40
+    21300082: CannonBallSheet_41
+    21300084: CannonBallSheet_42
+    21300086: CannonBallSheet_43
+    21300088: CannonBallSheet_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: CannonBallSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 226
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 226
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 226
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 226
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 226
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 226
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 226
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 252
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 246
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 192
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 193
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 192
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 192
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 192
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 160
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 159
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 159
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 160
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 160
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 159
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 126
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 127
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 130
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 130
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 130
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 130
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 148
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 131
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 97
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 97
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 97
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 97
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 108
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 110
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CannonBallSheet_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 112
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

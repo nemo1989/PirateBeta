@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tileetrees" tilewidth="32" tileheight="32">
+  <image source="Game Graphics/tileetrees.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="grass_puddle_patches_final" tilewidth="32" tileheight="32">
+  <image source="Game Graphics/grass_puddle_patches_final.png" width="651" height="390"/>
+ </tileset>
+ <layer name="Tile Layer 3" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0TcBgAAQwEDwL4TqgOqA6oAqg6h4lgy3ZE2WJkmOAiUq1MiCeoMWHXoMGAP7hBkLVmzYA/uBExduPHgDe9Rn//vf//73v//973//+9///vf/v/8/ti8hrg==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAADwbhAAAAE=
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztl0kOwkAMBGcgH2D5AIEPsHyA5f9vSl8iRS2QsWS3LympDn0vxZneWtvALRxgF+8d3MMDPBbsExzhGV4K9hXe4B0+CvYTvuAbfgr2tz5mKvpj1P0x6v4YdX+Muj+Ge4zG6i8bq79srP6ysfrLRnFvZyruL6O+v4z6/jLq+8v8c3+tfpbbohvb20803n6i8fYTjbefaNTvjfX9sb4/fvVtfe+iyfif9DIBiCRZHA==
+  </data>
+ </layer>
+</map>

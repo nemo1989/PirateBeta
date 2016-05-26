@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 4879041d47a86e845afa1257e0ba5619
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wave-one-circle_00001
+    21300002: wave-one-circle_00002
+    21300004: wave-one-circle_00003
+    21300006: wave-one-circle_00004
+    21300008: wave-one-circle_00005
+    21300010: wave-one-circle_00006
+    21300012: wave-one-circle_00007
+    21300014: wave-one-circle_00008
+    21300016: wave-one-circle_00009
+    21300018: wave-one-circle_00010
+    21300020: wave-one-circle_00011
+    21300022: wave-one-circle_00012
+    21300024: wave-one-circle_00013
+    21300026: wave-one-circle_00014
+    21300028: wave-one-circle_00015
+    21300030: wave-one-circle_00016
+    21300032: wave-one-circle_00017
+    21300034: wave-one-circle_00018
+    21300036: wave-one-circle_00019
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wave-one-circle_00001
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 856
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00002
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 730
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00003
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 476
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00004
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 460
+        width: 116
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00005
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 680
+        width: 140
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00006
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 772
+        width: 166
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00007
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 882
+        width: 194
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00008
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 536
+        width: 220
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00009
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 26
+        width: 246
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 270
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00011
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6
+        width: 296
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00012
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 4
+        width: 320
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00013
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 212
+        width: 342
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00014
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 198
+        width: 366
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 386
+        height: 248
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00016
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 436
+        width: 408
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00017
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 434
+        width: 432
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00018
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 714
+        width: 454
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wave-one-circle_00019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 478
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

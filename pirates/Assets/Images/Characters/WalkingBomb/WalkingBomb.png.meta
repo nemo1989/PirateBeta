@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 6e177a216314f48538e43c9c2a50cc02
+timeCreated: 1434996274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WalkingBomb_0
+    21300002: WalkingBomb_1
+    21300004: WalkingBomb_2
+    21300006: WalkingBomb_3
+    21300008: WalkingBomb_4
+    21300010: WalkingBomb_5
+    21300012: WalkingBomb_6
+    21300014: WalkingBomb_7
+    21300016: WalkingBomb_8
+    21300018: WalkingBomb_9
+    21300020: WalkingBomb_10
+    21300022: WalkingBomb_11
+    21300024: WalkingBomb_12
+    21300026: WalkingBomb_13
+    21300028: WalkingBomb_14
+    21300030: WalkingBomb_15
+    21300032: WalkingBomb_16
+    21300034: WalkingBomb_17
+    21300036: WalkingBomb_18
+    21300038: WalkingBomb_19
+    21300040: WalkingBomb_20
+    21300042: WalkingBomb_21
+    21300044: WalkingBomb_22
+    21300046: WalkingBomb_23
+    21300048: WalkingBomb_24
+    21300050: WalkingBomb_25
+    21300052: WalkingBomb_26
+    21300054: WalkingBomb_27
+    21300056: WalkingBomb_28
+    21300058: WalkingBomb_29
+    21300060: WalkingBomb_30
+    21300062: WalkingBomb_31
+    21300064: WalkingBomb_32
+    21300066: WalkingBomb_33
+    21300068: WalkingBomb_34
+    21300070: WalkingBomb_35
+    21300072: WalkingBomb_36
+    21300074: WalkingBomb_37
+    21300076: WalkingBomb_38
+    21300078: WalkingBomb_39
+    21300080: WalkingBomb_40
+    21300082: WalkingBomb_41
+    21300084: WalkingBomb_42
+    21300086: WalkingBomb_43
+    21300088: WalkingBomb_44
+    21300090: WalkingBomb_45
+    21300092: WalkingBomb_46
+    21300094: WalkingBomb_47
+    21300096: WalkingBomb_48
+    21300098: WalkingBomb_49
+    21300100: WalkingBomb_50
+    21300102: WalkingBomb_51
+    21300104: WalkingBomb_52
+    21300106: WalkingBomb_53
+    21300108: WalkingBomb_54
+    21300110: WalkingBomb_55
+    21300112: WalkingBomb_56
+    21300114: WalkingBomb_57
+    21300116: WalkingBomb_58
+    21300118: WalkingBomb_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: WalkingBomb_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 473
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 473
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 467
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 467
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 467
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 473
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 473
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 473
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 473
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 467
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 428
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 428
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 422
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 422
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 422
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 428
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 422
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 428
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 428
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 428
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 383
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 377
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 377
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 397
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 397
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 397
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 397
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 384
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 339
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 339
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 339
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 333
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 339
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 335
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 333
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 289
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 295
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 298
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 295
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 298
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 298
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 291
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 247
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 247
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 245
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 247
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 245
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 251
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 207
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 207
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 210
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 206
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 207
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 203
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 161
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkingBomb_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 161
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

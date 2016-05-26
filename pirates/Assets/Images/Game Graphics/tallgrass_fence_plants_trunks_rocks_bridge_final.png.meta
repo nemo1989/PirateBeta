@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 017844cd700394c269fb6c91742bacb6
+timeCreated: 1435082126
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    8900000: generatedCubemap
+    21300000: tallgrass_fence_plants_trunks_rocks_bridge_final_0
+    21300002: tallgrass_fence_plants_trunks_rocks_bridge_final_1
+    21300004: tallgrass_fence_plants_trunks_rocks_bridge_final_2
+    21300006: tallgrass_fence_plants_trunks_rocks_bridge_final_3
+    21300008: tallgrass_fence_plants_trunks_rocks_bridge_final_4
+    21300010: tallgrass_fence_plants_trunks_rocks_bridge_final_5
+    21300012: tallgrass_fence_plants_trunks_rocks_bridge_final_6
+    21300014: tallgrass_fence_plants_trunks_rocks_bridge_final_7
+    21300016: tallgrass_fence_plants_trunks_rocks_bridge_final_8
+    21300018: tallgrass_fence_plants_trunks_rocks_bridge_final_9
+    21300020: tallgrass_fence_plants_trunks_rocks_bridge_final_10
+    21300022: tallgrass_fence_plants_trunks_rocks_bridge_final_11
+    21300024: tallgrass_fence_plants_trunks_rocks_bridge_final_12
+    21300026: tallgrass_fence_plants_trunks_rocks_bridge_final_13
+    21300028: tallgrass_fence_plants_trunks_rocks_bridge_final_14
+    21300030: tallgrass_fence_plants_trunks_rocks_bridge_final_15
+    21300032: tallgrass_fence_plants_trunks_rocks_bridge_final_16
+    21300034: tallgrass_fence_plants_trunks_rocks_bridge_final_17
+    21300036: tallgrass_fence_plants_trunks_rocks_bridge_final_18
+    21300038: tallgrass_fence_plants_trunks_rocks_bridge_final_19
+    21300040: tallgrass_fence_plants_trunks_rocks_bridge_final_20
+    21300042: tallgrass_fence_plants_trunks_rocks_bridge_final_21
+    21300044: tallgrass_fence_plants_trunks_rocks_bridge_final_22
+    21300046: tallgrass_fence_plants_trunks_rocks_bridge_final_23
+    21300048: tallgrass_fence_plants_trunks_rocks_bridge_final_24
+    21300050: tallgrass_fence_plants_trunks_rocks_bridge_final_25
+    21300052: tallgrass_fence_plants_trunks_rocks_bridge_final_26
+    21300054: tallgrass_fence_plants_trunks_rocks_bridge_final_27
+    21300056: tallgrass_fence_plants_trunks_rocks_bridge_final_28
+    21300058: tallgrass_fence_plants_trunks_rocks_bridge_final_29
+    21300060: tallgrass_fence_plants_trunks_rocks_bridge_final_30
+    21300062: tallgrass_fence_plants_trunks_rocks_bridge_final_31
+    21300064: tallgrass_fence_plants_trunks_rocks_bridge_final_32
+    21300066: tallgrass_fence_plants_trunks_rocks_bridge_final_33
+    21300068: tallgrass_fence_plants_trunks_rocks_bridge_final_34
+    21300070: tallgrass_fence_plants_trunks_rocks_bridge_final_35
+    21300072: tallgrass_fence_plants_trunks_rocks_bridge_final_36
+    21300074: tallgrass_fence_plants_trunks_rocks_bridge_final_37
+    21300076: tallgrass_fence_plants_trunks_rocks_bridge_final_38
+    21300078: tallgrass_fence_plants_trunks_rocks_bridge_final_39
+    21300080: tallgrass_fence_plants_trunks_rocks_bridge_final_40
+    21300082: tallgrass_fence_plants_trunks_rocks_bridge_final_41
+    21300084: tallgrass_fence_plants_trunks_rocks_bridge_final_42
+    21300086: tallgrass_fence_plants_trunks_rocks_bridge_final_43
+    21300088: tallgrass_fence_plants_trunks_rocks_bridge_final_44
+    21300090: tallgrass_fence_plants_trunks_rocks_bridge_final_45
+    21300092: tallgrass_fence_plants_trunks_rocks_bridge_final_46
+    21300094: tallgrass_fence_plants_trunks_rocks_bridge_final_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 325
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 260
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_24
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_27
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_44
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tallgrass_fence_plants_trunks_rocks_bridge_final_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

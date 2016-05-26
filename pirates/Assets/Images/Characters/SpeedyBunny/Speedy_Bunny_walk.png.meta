@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 63997be00c6023d479ed0bad83112a8f
+timeCreated: 1440956946
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Speedy_Bunny_walk_0
+    21300002: Speedy_Bunny_walk_1
+    21300004: Speedy_Bunny_walk_2
+    21300006: Speedy_Bunny_walk_3
+    21300008: Speedy_Bunny_walk_4
+    21300010: Speedy_Bunny_walk_5
+    21300012: Speedy_Bunny_walk_6
+    21300014: Speedy_Bunny_walk_7
+    21300016: Speedy_Bunny_walk_8
+    21300018: Speedy_Bunny_walk_9
+    21300020: Speedy_Bunny_walk_10
+    21300022: Speedy_Bunny_walk_11
+    21300024: Speedy_Bunny_walk_12
+    21300026: Speedy_Bunny_walk_13
+    21300028: Speedy_Bunny_walk_14
+    21300030: Speedy_Bunny_walk_15
+    21300032: Speedy_Bunny_walk_16
+    21300034: Speedy_Bunny_walk_17
+    21300036: Speedy_Bunny_walk_18
+    21300038: Speedy_Bunny_walk_19
+    21300040: Speedy_Bunny_walk_20
+    21300042: Speedy_Bunny_walk_21
+    21300044: Speedy_Bunny_walk_22
+    21300046: Speedy_Bunny_walk_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Speedy_Bunny_walk_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 293
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 294
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 295
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 308
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 296
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 293
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 220
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 220
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 232
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 224
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 220
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 129
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 130
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 141
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 134
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 129
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 41
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 41
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_21
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 50
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 40
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speedy_Bunny_walk_23
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 41
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

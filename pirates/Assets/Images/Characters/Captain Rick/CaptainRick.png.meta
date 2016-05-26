@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: 6faa299a1f01346ad903fb1ed62a906d
+timeCreated: 1434739324
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CaptainRick_0
+    21300002: CaptainRick_1
+    21300004: CaptainRick_2
+    21300006: CaptainRick_3
+    21300008: CaptainRick_4
+    21300010: CaptainRick_5
+    21300012: CaptainRick_6
+    21300014: CaptainRick_7
+    21300016: CaptainRick_8
+    21300018: CaptainRick_9
+    21300020: CaptainRick_10
+    21300022: CaptainRick_11
+    21300024: CaptainRick_12
+    21300026: CaptainRick_13
+    21300028: CaptainRick_14
+    21300030: CaptainRick_15
+    21300032: CaptainRick_16
+    21300034: CaptainRick_17
+    21300036: CaptainRick_18
+    21300038: CaptainRick_19
+    21300040: CaptainRick_20
+    21300042: CaptainRick_21
+    21300044: CaptainRick_22
+    21300046: CaptainRick_23
+    21300048: CaptainRick_24
+    21300050: CaptainRick_25
+    21300052: CaptainRick_26
+    21300054: CaptainRick_27
+    21300056: CaptainRick_28
+    21300058: CaptainRick_29
+    21300060: CaptainRick_30
+    21300062: CaptainRick_31
+    21300064: CaptainRick_32
+    21300066: CaptainRick_33
+    21300068: CaptainRick_34
+    21300070: CaptainRick_35
+    21300072: CaptainRick_36
+    21300074: CaptainRick_37
+    21300076: CaptainRick_38
+    21300078: CaptainRick_39
+    21300080: CaptainRick_40
+    21300082: CaptainRick_41
+    21300084: CaptainRick_42
+    21300086: CaptainRick_43
+    21300088: CaptainRick_44
+    21300090: CaptainRick_45
+    21300092: CaptainRick_46
+    21300094: CaptainRick_47
+    21300096: CaptainRick_48
+    21300098: CaptainRick_49
+    21300100: CaptainRick_50
+    21300102: CaptainRick_51
+    21300104: CaptainRick_52
+    21300106: CaptainRick_53
+    21300108: CaptainRick_54
+    21300110: CaptainRick_55
+    21300112: CaptainRick_56
+    21300114: CaptainRick_57
+    21300116: CaptainRick_58
+    21300118: CaptainRick_59
+    21300120: CaptainRick_60
+    21300122: CaptainRick_61
+    21300124: CaptainRick_62
+    21300126: CaptainRick_63
+    21300128: CaptainRick_64
+    21300130: CaptainRick_65
+    21300132: CaptainRick_66
+    21300134: CaptainRick_67
+    21300136: CaptainRick_68
+    21300138: CaptainRick_69
+    21300140: CaptainRick_70
+    21300142: CaptainRick_71
+    21300144: CaptainRick_72
+    21300146: CaptainRick_73
+    21300148: CaptainRick_74
+    21300150: CaptainRick_75
+    21300152: CaptainRick_76
+    21300154: CaptainRick_77
+    21300156: CaptainRick_78
+    21300158: CaptainRick_79
+    21300160: CaptainRick_80
+    21300162: CaptainRick_81
+    21300164: CaptainRick_82
+    21300166: CaptainRick_83
+    21300168: CaptainRick_84
+    21300170: CaptainRick_85
+    21300172: CaptainRick_86
+    21300174: CaptainRick_87
+    21300176: CaptainRick_88
+    21300178: CaptainRick_89
+    21300180: CaptainRick_90
+    21300182: CaptainRick_91
+    21300184: CaptainRick_92
+    21300186: CaptainRick_93
+    21300188: CaptainRick_94
+    21300190: CaptainRick_95
+    21300192: CaptainRick_96
+    21300194: CaptainRick_97
+    21300196: CaptainRick_98
+    21300198: CaptainRick_99
+    21300200: CaptainRick_100
+    21300202: CaptainRick_101
+    21300204: CaptainRick_102
+    21300206: CaptainRick_103
+    21300208: CaptainRick_104
+    21300210: CaptainRick_105
+    21300212: CaptainRick_106
+    21300214: CaptainRick_107
+    21300216: CaptainRick_108
+    21300218: CaptainRick_109
+    21300220: CaptainRick_110
+    21300222: CaptainRick_111
+    21300224: CaptainRick_112
+    21300226: CaptainRick_113
+    21300228: CaptainRick_114
+    21300230: CaptainRick_115
+    21300232: CaptainRick_116
+    21300234: CaptainRick_117
+    21300236: CaptainRick_118
+    21300238: CaptainRick_119
+    21300240: CaptainRick_120
+    21300242: CaptainRick_121
+    21300244: CaptainRick_122
+    21300246: CaptainRick_123
+    21300248: CaptainRick_124
+    21300250: CaptainRick_125
+    21300252: CaptainRick_126
+    21300254: CaptainRick_127
+    21300256: CaptainRick_128
+    21300258: CaptainRick_129
+    21300260: CaptainRick_130
+    21300262: CaptainRick_131
+    21300264: CaptainRick_132
+    21300266: CaptainRick_133
+    21300268: CaptainRick_134
+    21300270: CaptainRick_135
+    21300272: CaptainRick_136
+    21300274: CaptainRick_137
+    21300276: CaptainRick_138
+    21300278: CaptainRick_139
+    21300280: CaptainRick_140
+    21300282: CaptainRick_141
+    21300284: CaptainRick_142
+    21300286: CaptainRick_143
+    21300288: CaptainRick_144
+    21300290: CaptainRick_145
+    21300292: CaptainRick_146
+    21300294: CaptainRick_147
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: CaptainRick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 941
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 941
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 943
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 944
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 946
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 946
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 946
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 947
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 947
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 947
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 947
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_12
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 947
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 947
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 947
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 947
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_16
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 947
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_17
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 947
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 947
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 947
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_20
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 947
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 864
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 865
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 865
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 865
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 864
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 864
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 864
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 866
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 866
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_31
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 866
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 866
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_33
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 865
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_34
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 865
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_35
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 866
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_36
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 866
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_37
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 866
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_38
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 866
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_39
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 866
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_40
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 866
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_41
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 866
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_42
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 866
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 787
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 787
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_52
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 786
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_53
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_54
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_55
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_56
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 787
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_57
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_58
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_59
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_60
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 787
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 787
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_62
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 787
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_63
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 786
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_64
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 787
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 710
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 711
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_68
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 711
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_69
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 712
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_70
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 711
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_71
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 711
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_72
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 711
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 711
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_74
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 712
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 711
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_76
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 711
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_77
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 712
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_78
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 712
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_79
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 711
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_80
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 712
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_81
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 712
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_82
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 711
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_83
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 712
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_84
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 712
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_86
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 638
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_87
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 637
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_88
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 637
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_89
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 637
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_90
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 638
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_91
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 638
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_92
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 638
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_93
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 638
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 638
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_95
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 637
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_96
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 638
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_97
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 637
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_98
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 637
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_99
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 638
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_100
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 639
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_101
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 639
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_102
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 639
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_103
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 639
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_104
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 639
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_105
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 638
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_107
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 565
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_108
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 564
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_109
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 564
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_110
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 566
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_111
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 565
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_112
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 565
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_113
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 565
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_114
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 565
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_115
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 565
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_116
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 566
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_117
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 566
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_118
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 566
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_119
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 566
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_120
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 566
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_121
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 566
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_122
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 565
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_123
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 565
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_124
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 565
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_125
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 565
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_127
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 494
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_128
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 494
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_129
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 494
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_130
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 495
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 494
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_132
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 494
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_133
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 494
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_134
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 495
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_135
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 495
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_136
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 495
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_137
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 495
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_138
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 495
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_139
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 497
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_140
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 497
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_141
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 497
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_142
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 498
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_143
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 499
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_145
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 430
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_146
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 431
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaptainRick_147
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 431
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

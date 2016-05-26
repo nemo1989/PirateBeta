@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI Script\UIScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CoinCollection.cs" Line="37" Column="1" />
+      <File FileName="Assets\Scripts\UI Script\UIScriptMission.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Test\AICollectCoins.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AI Controller\AiController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterScripts\WalkingBombScript.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\NAEEM\Desktop\pirates\Assets\AstarPathfindingProject\Core\AI\Seeker.cs" Line="400" Column="57" />
+      <File FileName="Assets\Scripts\CharacterScripts\CharacterStates.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterScripts\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FlockOfBirds\FlockOfBirdsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterScripts\WalkingBombHitBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelSelect\LevelSelectScript.cs" Line="21" Column="10" />
+      <File FileName="Assets\Scripts\UI Script\UIScript.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

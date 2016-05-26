@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 12fddedf9f1b4a94aa6c34da44f85875
+timeCreated: 1450380703
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: daft_dwarf_fart_0
+    21300002: daft_dwarf_fart_1
+    21300004: daft_dwarf_fart_2
+    21300006: daft_dwarf_fart_3
+    21300008: daft_dwarf_fart_4
+    21300010: daft_dwarf_fart_5
+    21300012: daft_dwarf_fart_6
+    21300014: daft_dwarf_fart_7
+    21300016: daft_dwarf_fart_8
+    21300018: daft_dwarf_fart_9
+    21300020: daft_dwarf_fart_10
+    21300022: daft_dwarf_fart_11
+    21300024: daft_dwarf_fart_12
+    21300026: daft_dwarf_fart_13
+    21300028: daft_dwarf_fart_14
+    21300030: daft_dwarf_fart_15
+    21300032: daft_dwarf_fart_16
+    21300034: daft_dwarf_fart_17
+    21300036: daft_dwarf_fart_18
+    21300038: daft_dwarf_fart_19
+    21300040: daft_dwarf_fart_20
+    21300042: daft_dwarf_fart_21
+    21300044: daft_dwarf_fart_22
+    21300046: daft_dwarf_fart_23
+    21300048: daft_dwarf_fart_24
+    21300050: daft_dwarf_fart_25
+    21300052: daft_dwarf_fart_26
+    21300054: daft_dwarf_fart_27
+    21300056: daft_dwarf_fart_28
+    21300058: daft_dwarf_fart_29
+    21300060: daft_dwarf_fart_30
+    21300062: daft_dwarf_fart_31
+    21300064: daft_dwarf_fart_32
+    21300066: daft_dwarf_fart_33
+    21300068: daft_dwarf_fart_34
+    21300070: daft_dwarf_fart_35
+    21300072: daft_dwarf_fart_36
+    21300074: daft_dwarf_fart_37
+    21300076: daft_dwarf_fart_38
+    21300078: daft_dwarf_fart_39
+    21300080: daft_dwarf_fart_40
+    21300082: daft_dwarf_fart_41
+    21300084: daft_dwarf_fart_42
+    21300086: daft_dwarf_fart_43
+    21300088: daft_dwarf_fart_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: daft_dwarf_fart_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 317
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 317
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 317
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 317
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 317
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 317
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 316
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 315
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 315
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 314
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 224
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 224
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 224
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_16
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 224
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_17
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 224
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 227
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_19
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 223
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_20
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 223
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 133
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 133
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 133
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 133
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_25
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 133
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 133
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 133
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_28
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 133
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_29
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 132
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_30
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 135
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_31
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 132
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_32
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 131
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 38
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 38
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 38
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 38
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_37
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 38
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_38
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 38
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_39
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 38
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_40
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 38
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_41
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 37
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_42
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_43
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 36
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_dwarf_fart_44
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 36
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

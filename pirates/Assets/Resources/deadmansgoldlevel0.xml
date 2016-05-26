@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="65" tileheight="65" nextobjectid="22">
+ <tileset firstgid="1" name="grassse" tilewidth="65" tileheight="65">
+  <image source="../../../../pirates/Pirates/grassse.png" width="600" height="400"/>
+ </tileset>
+ <tileset firstgid="55" name="grass_puddle_patches_final" tilewidth="65" tileheight="65">
+  <image source="../../../../pirates/Pirates/grass_puddle_patches_final.png" width="651" height="390"/>
+ </tileset>
+ <tileset firstgid="115" name="pathways_snow_grass" tilewidth="65" tileheight="65">
+  <image source="../../../../pirates/Pirates/pathways_snow_grass.png" width="975" height="845"/>
+ </tileset>
+ <tileset firstgid="310" name="trees_final" tilewidth="65" tileheight="65">
+  <image source="../../../../pirates/Pirates/trees_final.png" width="651" height="390"/>
+ </tileset>
+ <tileset firstgid="370" name="meta_tile_4" tilewidth="65" tileheight="65">
+  <image source="../../../../pirates/Pirates/meta_tile_4.png" width="130" height="65"/>
+  <tile id="0">
+   <properties>
+    <property name="collectable" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="collision" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="372" name="tallgrass_fence_plants_trunks_rocks_bridge_final" tilewidth="65" tileheight="65">
+  <image source="../../../../pirates/Pirates/tallgrass_fence_plants_trunks_rocks_bridge_final.png" width="651" height="390"/>
+ </tileset>
+ <tileset firstgid="432" name="items" tilewidth="65" tileheight="65">
+  <image source="../../../../pirates/Pirates/items.png" width="390" height="325"/>
+  <tile id="12">
+   <properties>
+    <property name="bomb" value="true"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="boot" value="true"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="bat" value="true"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="collectable" value="true"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="spade" value="true"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="bell" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="462" name="Grass terrains" tilewidth="65" tileheight="65">
+  <image source="../../../../pirates/Pirates/Grass terrains.jpg" width="353" height="345"/>
+ </tileset>
+ <layer name="bg" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3RtxGAMBQEUdF/b8ILI6wkqIPt4WaIfvCSDe985VyNBi06eKH1GDAiYBLbjAUrIjax7Thw4sIttoSMggev2JTt7Q/7w/6wP/784wOjX7unQAYAAA==
+  </data>
+ </layer>
+ <layer name="path" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2SywoCMQxF893iY2bne2atoGsFXSt2LzjzUZMwBmJI0yq4EQMHSkkv9yYF+BfXEBk7FE/KTL0FskRWEdZIhezf0KsTPTtDj3KNDAJyBTtr6ehtnFyNQSV8n5Cz0rsg20QunbEWZ+3vG3rHD/VieWnuhWDiEIQny98d+r/E0LxpPw8F39NOWsefrkOkx3pr+ftlvdz50b5vipDhb2BA73iPEtpxC6+l/c0izBMZuKaqtwORfv8ZQAYAAA==
+  </data>
+ </layer>
+ <layer name="collisionlayer" width="20" height="20">
+  <properties>
+   <property name="COLLIDE" value="1"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGJqgmJF0TMg8Uu2nhXnEuJ9YNeS4A5cf6GEeqfFIjHnkuIle7iMV0Ms8YtMdNnFsZhOyExt7sJhHqn9JLXeIMY9UQKr7yMUgAABIrvQ9QAYAAA==
+  </data>
+ </layer>
+ <layer name="trees" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgwA+sGBkYrBkJixFrhguQdkXTi00Mm34YjazeD0j7o+nFJobNPhhNSD0hP8H0k2MOupuoBShxCz0AqWmIEBgNP8oArcIPPe8SA/CpRc+7xAB8asnJu9jUUhIf2PRSEh/Y9FKSnvHpBQC8Y150QAYAAA==
+  </data>
+ </layer>
+ <layer name="fences" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA9WTSwuDMBCEzd8WPLSWXkKO9fFvNYfAdLo7q4KHDiyGIfmSfbikrltENKk9USDD4p29o+qxf58nYjTuw3uz4SsV8b73RZ7Kawaet2dM37wreaHyzTz2jvQUc2Qe172u+yCK4LH32ddTELPg/UM/OEesN/bH8nn+UK/062f4Z9hfk50v9m4wznm83uFx4DmsBfd1cHhqHjw1TjR/R6V40fx6M11z43pUbwMNBXdUQAYAAA==
+  </data>
+ </layer>
+ <objectgroup name="oj" visible="0">
+  <object id="1" name="id0waypoint2" x="392" y="1139"/>
+  <object id="2" name="id0waypoint0" type="Thicktroll" x="779" y="806"/>
+  <object id="3" name="id0waypoint1" x="393" y="813"/>
+  <object id="4" name="id1waypoint0" type="Thicktroll" x="910" y="431"/>
+  <object id="5" name="id1waypoint3" x="910" y="800"/>
+  <object id="6" name="id1waypoint2" x="130" y="798"/>
+  <object id="7" name="id1waypoint1" x="130" y="429"/>
+  <object id="8" name="startpoint" x="102" y="1211"/>
+  <object id="9" name="objectid0waypoint1" x="819" y="1143"/>
+  <object id="10" x="743" y="1140" width="7"/>
+  <object id="11" name="Cannonid0waypoint0" x="1132" y="236">
+   <properties>
+    <property name="faceDown" value="1"/>
+   </properties>
+  </object>
+  <object id="12" name="birdsid0waypoint0" x="-117" y="551"/>
+  <object id="13" name="birdsid0waypoint1" x="1733" y="667"/>
+  <object id="14" name="birdsid3waypoint0" x="-113" y="844"/>
+  <object id="15" name="birdsid4waypoint0" x="-124" y="1138"/>
+  <object id="16" name="birdsid1waypoint0" x="-81" y="95"/>
+  <object id="17" name="birdsid2waypoint0" x="-98" y="389"/>
+  <object id="18" name="birdsid1waypoint1" x="1366" y="104"/>
+  <object id="19" name="birdsid2waypoint1" x="1574" y="370"/>
+  <object id="20" name="birdsid3waypoint1" x="1572" y="821"/>
+  <object id="21" name="birdsid4waypoint1" x="1397" y="1204"/>
+ </objectgroup>
+ <layer name="collectables" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAXDCZxkHF720AOg+4UefhtO4YcMKPHXUA2ToepuagAAUP3fPEAGAAA=
+  </data>
+ </layer>
+</map>

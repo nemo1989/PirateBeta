@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: af44e80630a912a409ba7c9a58ef6d86
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leaf-3_0
+    21300002: leaf-3_1
+    21300004: leaf-3_2
+    21300006: leaf-3_3
+    21300008: leaf-3_4
+    21300010: leaf-3_5
+    21300012: leaf-3_6
+    21300014: leaf-3_7
+    21300016: leaf-3_8
+    21300018: leaf-3_9
+    21300020: leaf-3_10
+    21300022: leaf-3_11
+    21300024: leaf-3_12
+    21300026: leaf-3_13
+    21300028: leaf-3_14
+    21300030: leaf-3_15
+    21300032: leaf-3_16
+    21300034: leaf-3_17
+    21300036: leaf-3_18
+    21300038: leaf-3_19
+    21300040: leaf-3_20
+    21300042: leaf-3_21
+    21300044: leaf-3_22
+    21300046: leaf-3_23
+    21300048: leaf-3_24
+    21300050: leaf-3_25
+    21300052: leaf-3_26
+    21300054: leaf-3_27
+    21300056: leaf-3_28
+    21300058: leaf-3_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: leaf-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 34}
+        - {x: -82, y: 23}
+        - {x: -82, y: -16}
+        - {x: -62, y: -30}
+        - {x: -33, y: -49}
+        - {x: 67, y: -49}
+        - {x: 81, y: -41}
+        - {x: 85, y: -26}
+        - {x: 85, y: 34}
+      - - {x: -65, y: 23}
+        - {x: -62, y: 24}
+        - {x: -62, y: 27}
+        - {x: -65, y: 28}
+        - {x: -67, y: 26}
+    - name: leaf-3_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 680
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 44}
+        - {x: -27, y: 44}
+        - {x: -62, y: 38}
+        - {x: -63, y: 35}
+        - {x: -62, y: 32}
+        - {x: -82, y: 4}
+        - {x: -82, y: -11}
+        - {x: -35, y: -27}
+        - {x: -22, y: -22}
+        - {x: -21, y: -21}
+        - {x: -19, y: -21}
+        - {x: -21, y: -21}
+        - {x: -27, y: -27}
+        - {x: -38, y: -64}
+        - {x: 44, y: -64}
+        - {x: 76, y: -43}
+        - {x: 85, y: -21}
+        - {x: 85, y: 23}
+      - - {x: 43, y: 30}
+        - {x: 44, y: 27}
+        - {x: 50, y: 27}
+        - {x: 52, y: 29}
+        - {x: 51, y: 32}
+        - {x: 45, y: 32}
+    - name: leaf-3_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 680
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 52}
+        - {x: -81, y: -25}
+        - {x: -59, y: -76}
+        - {x: 84, y: -76}
+        - {x: 84, y: 52}
+    - name: leaf-3_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 680
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 62}
+        - {x: -80, y: -12}
+        - {x: -42, y: -83}
+        - {x: 57, y: -83}
+        - {x: 79, y: -59}
+        - {x: 79, y: 53}
+        - {x: 73, y: 62}
+    - name: leaf-3_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 680
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 70}
+        - {x: -70, y: 60}
+        - {x: -80, y: 8}
+        - {x: -80, y: -12}
+        - {x: -47, y: -36}
+        - {x: -31, y: -36}
+        - {x: -25, y: -32}
+        - {x: -21, y: -32}
+        - {x: -23, y: -32}
+        - {x: -28, y: -37}
+        - {x: -33, y: -45}
+        - {x: -36, y: -85}
+        - {x: 56, y: -85}
+        - {x: 70, y: -65}
+        - {x: 70, y: 31}
+        - {x: 20, y: 70}
+    - name: leaf-3_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 680
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 77}
+        - {x: -38, y: 77}
+        - {x: -65, y: 64}
+        - {x: -78, y: 22}
+        - {x: -78, y: -19}
+        - {x: -42, y: -85}
+        - {x: 27, y: -85}
+        - {x: 60, y: -51}
+        - {x: 60, y: 20}
+        - {x: 43, y: 74}
+    - name: leaf-3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 82}
+        - {x: -12, y: 82}
+        - {x: -62, y: 69}
+        - {x: -76, y: 1}
+        - {x: -76, y: -14}
+        - {x: -54, y: -34}
+        - {x: -42, y: -36}
+        - {x: -36, y: -35}
+        - {x: -55, y: -51}
+        - {x: -46, y: -81}
+        - {x: 4, y: -81}
+        - {x: 25, y: -73}
+        - {x: 54, y: -43}
+        - {x: 54, y: 62}
+        - {x: 52, y: 72}
+    - name: leaf-3_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 510
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 8}
+        - {x: 40, y: 9}
+        - {x: 47, y: 12}
+        - {x: 50, y: 18}
+        - {x: 51, y: 23}
+        - {x: 49, y: 25}
+        - {x: 47, y: 25}
+        - {x: 49, y: 42}
+        - {x: 49, y: 61}
+        - {x: 39, y: 84}
+        - {x: -34, y: 84}
+        - {x: -51, y: 74}
+        - {x: -53, y: 68}
+        - {x: -75, y: 7}
+        - {x: -75, y: -22}
+        - {x: -50, y: -72}
+        - {x: -47, y: -73}
+        - {x: 0, y: -73}
+        - {x: 28, y: -46}
+        - {x: 45, y: 0}
+    - name: leaf-3_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 510
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 59}
+        - {x: 53, y: 56}
+        - {x: 53, y: 65}
+        - {x: 39, y: 80}
+        - {x: 36, y: 83}
+        - {x: 31, y: 81}
+        - {x: -3, y: 83}
+        - {x: -66, y: 83}
+        - {x: -75, y: 54}
+        - {x: -75, y: -13}
+        - {x: -65, y: -35}
+        - {x: -42, y: -27}
+        - {x: -35, y: -27}
+        - {x: -37, y: -27}
+        - {x: -53, y: -34}
+        - {x: -56, y: -63}
+        - {x: 2, y: -63}
+        - {x: 58, y: 18}
+        - {x: 58, y: 60}
+        - {x: 56, y: 60}
+    - name: leaf-3_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 510
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 82}
+        - {x: -72, y: -53}
+        - {x: -11, y: -53}
+        - {x: 63, y: 32}
+        - {x: 63, y: 82}
+      - - {x: 65, y: 72}
+        - {x: 62, y: 69}
+        - {x: 62, y: 68}
+        - {x: 64, y: 66}
+        - {x: 66, y: 66}
+        - {x: 68, y: 68}
+        - {x: 68, y: 70}
+        - {x: 66, y: 72}
+    - name: leaf-3_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 510
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 71}
+        - {x: 68, y: 66}
+        - {x: 63, y: 77}
+        - {x: 27, y: 84}
+        - {x: -39, y: 84}
+        - {x: -70, y: 36}
+        - {x: -70, y: -9}
+        - {x: -64, y: -41}
+        - {x: -16, y: -41}
+        - {x: 62, y: 23}
+        - {x: 78, y: 66}
+        - {x: 78, y: 70}
+    - name: leaf-3_11
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 510
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 82}
+        - {x: -66, y: 42}
+        - {x: -66, y: -30}
+        - {x: -9, y: -30}
+        - {x: 79, y: 36}
+        - {x: 79, y: 64}
+        - {x: 13, y: 82}
+      - - {x: 82, y: 59}
+        - {x: 84, y: 57}
+        - {x: 85, y: 57}
+        - {x: 85, y: 62}
+        - {x: 83, y: 62}
+    - name: leaf-3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 76}
+        - {x: -69, y: 44}
+        - {x: -69, y: -19}
+        - {x: -6, y: -19}
+        - {x: 64, y: 0}
+        - {x: 82, y: 27}
+        - {x: 82, y: 40}
+        - {x: 41, y: 76}
+    - name: leaf-3_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 65}
+        - {x: -57, y: 46}
+        - {x: -70, y: 6}
+        - {x: -70, y: -6}
+        - {x: 3, y: -6}
+        - {x: 85, y: 1}
+        - {x: 85, y: 41}
+        - {x: 71, y: 65}
+    - name: leaf-3_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 340
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 57}
+        - {x: -78, y: 28}
+        - {x: -78, y: 6}
+        - {x: 43, y: -6}
+        - {x: 80, y: -6}
+        - {x: 85, y: -4}
+        - {x: 85, y: 21}
+        - {x: 58, y: 57}
+    - name: leaf-3_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 340
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 62}
+        - {x: -80, y: 38}
+        - {x: -80, y: 17}
+        - {x: -29, y: -7}
+        - {x: 48, y: -21}
+        - {x: 85, y: -21}
+        - {x: 85, y: 45}
+        - {x: 65, y: 62}
+    - name: leaf-3_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 340
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 32}
+        - {x: 63, y: -37}
+        - {x: 83, y: -37}
+        - {x: 83, y: -1}
+        - {x: 74, y: 51}
+        - {x: 48, y: 65}
+        - {x: -36, y: 65}
+        - {x: -85, y: 46}
+    - name: leaf-3_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 340
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 68}
+        - {x: -80, y: 49}
+        - {x: -80, y: 27}
+        - {x: 54, y: -50}
+        - {x: 78, y: -50}
+        - {x: 78, y: 50}
+        - {x: 42, y: 68}
+    - name: leaf-3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: -27}
+        - {x: 68, y: -20}
+        - {x: 70, y: -16}
+        - {x: 70, y: -13}
+        - {x: 75, y: -2}
+        - {x: 75, y: 44}
+        - {x: 34, y: 71}
+        - {x: 7, y: 74}
+        - {x: -18, y: 74}
+        - {x: -19, y: 69}
+        - {x: -36, y: 67}
+        - {x: -73, y: 55}
+        - {x: -74, y: 52}
+        - {x: -74, y: 39}
+        - {x: -47, y: 18}
+        - {x: 44, y: -58}
+        - {x: 68, y: -58}
+        - {x: 70, y: -53}
+        - {x: 73, y: -32}
+    - name: leaf-3_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 81}
+        - {x: -25, y: 81}
+        - {x: -72, y: 69}
+        - {x: -72, y: 18}
+        - {x: 9, y: -67}
+        - {x: 65, y: -67}
+        - {x: 79, y: -30}
+        - {x: 79, y: 38}
+        - {x: 54, y: 77}
+    - name: leaf-3_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: 30}
+        - {x: 54, y: 64}
+        - {x: 29, y: 75}
+        - {x: 6, y: 85}
+        - {x: -2, y: 85}
+        - {x: -4, y: 84}
+        - {x: -33, y: 81}
+        - {x: -67, y: 64}
+        - {x: -69, y: 60}
+        - {x: -69, y: 51}
+        - {x: -49, y: -4}
+        - {x: -24, y: -33}
+        - {x: -20, y: -33}
+        - {x: -15, y: -32}
+        - {x: 6, y: -71}
+        - {x: 20, y: -81}
+        - {x: 25, y: -81}
+        - {x: 55, y: -65}
+        - {x: 74, y: -18}
+        - {x: 81, y: 0}
+      - - {x: -20, y: -33}
+        - {x: -20, y: -39}
+        - {x: -13, y: -50}
+        - {x: -8, y: -50}
+        - {x: -7, y: -49}
+        - {x: -7, y: -45}
+        - {x: -16, y: -32}
+        - {x: -19, y: -32}
+    - name: leaf-3_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 170
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 85}
+        - {x: -66, y: 77}
+        - {x: -66, y: 17}
+        - {x: -49, y: -24}
+        - {x: -23, y: -41}
+        - {x: -20, y: -41}
+        - {x: -12, y: -33}
+        - {x: -3, y: -62}
+        - {x: -1, y: -85}
+        - {x: 18, y: -85}
+        - {x: 56, y: -74}
+        - {x: 79, y: -51}
+        - {x: 79, y: 40}
+        - {x: 39, y: 85}
+      - - {x: -19, y: -76}
+        - {x: -16, y: -79}
+        - {x: -13, y: -78}
+        - {x: -13, y: -76}
+        - {x: -16, y: -73}
+        - {x: -18, y: -73}
+    - name: leaf-3_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 170
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 85}
+        - {x: -63, y: 72}
+        - {x: -63, y: 1}
+        - {x: -59, y: -33}
+        - {x: -36, y: -85}
+        - {x: 64, y: -85}
+        - {x: 77, y: -43}
+        - {x: 77, y: 35}
+        - {x: 62, y: 85}
+    - name: leaf-3_23
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 170
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 82}
+        - {x: -60, y: 68}
+        - {x: -60, y: -47}
+        - {x: -24, y: -82}
+        - {x: -4, y: -82}
+        - {x: 75, y: -14}
+        - {x: 75, y: 62}
+        - {x: 56, y: 82}
+    - name: leaf-3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 75}
+        - {x: -63, y: 45}
+        - {x: -66, y: 11}
+        - {x: -66, y: -43}
+        - {x: -43, y: -70}
+        - {x: -18, y: -70}
+        - {x: 49, y: -36}
+        - {x: 72, y: 6}
+        - {x: 72, y: 75}
+    - name: leaf-3_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 37}
+        - {x: 75, y: 40}
+        - {x: 74, y: 43}
+        - {x: 68, y: 42}
+        - {x: 65, y: 40}
+        - {x: 68, y: 47}
+        - {x: 69, y: 51}
+        - {x: 67, y: 53}
+        - {x: 63, y: 53}
+        - {x: 58, y: 61}
+        - {x: 55, y: 65}
+        - {x: -2, y: 65}
+        - {x: -70, y: 43}
+        - {x: -72, y: 10}
+        - {x: -72, y: -34}
+        - {x: -48, y: -57}
+        - {x: -16, y: -57}
+        - {x: 74, y: 9}
+        - {x: 67, y: 17}
+        - {x: 57, y: 15}
+    - name: leaf-3_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 53}
+        - {x: -54, y: 38}
+        - {x: -44, y: 22}
+        - {x: -41, y: 20}
+        - {x: -77, y: -17}
+        - {x: -77, y: -23}
+        - {x: -76, y: -26}
+        - {x: -54, y: -29}
+        - {x: -51, y: -29}
+        - {x: -64, y: -34}
+        - {x: -65, y: -38}
+        - {x: -59, y: -41}
+        - {x: 22, y: -41}
+        - {x: 77, y: 14}
+        - {x: 77, y: 53}
+    - name: leaf-3_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 42}
+        - {x: -80, y: -5}
+        - {x: -80, y: -18}
+        - {x: -79, y: -19}
+        - {x: -56, y: -24}
+        - {x: 21, y: -24}
+        - {x: 85, y: 20}
+        - {x: 85, y: 42}
+      - - {x: -77, y: -23}
+        - {x: -74, y: -22}
+        - {x: -74, y: -19}
+        - {x: -77, y: -18}
+        - {x: -79, y: -20}
+      - - {x: -74, y: -19}
+        - {x: -73, y: -22}
+        - {x: -64, y: -22}
+        - {x: -62, y: -20}
+        - {x: -63, y: -17}
+        - {x: -72, y: -17}
+      - - {x: -70, y: -6}
+        - {x: -68, y: -8}
+        - {x: -63, y: -5}
+        - {x: -64, y: -2}
+        - {x: -67, y: -2}
+        - {x: -70, y: -5}
+      - - {x: -57, y: 5}
+        - {x: -57, y: 4}
+        - {x: -55, y: 2}
+        - {x: -54, y: 2}
+        - {x: -51, y: 5}
+        - {x: -51, y: 7}
+        - {x: -54, y: 8}
+      - - {x: -50, y: 8}
+        - {x: -49, y: 5}
+        - {x: -45, y: 5}
+        - {x: -43, y: 7}
+        - {x: -44, y: 10}
+        - {x: -48, y: 10}
+    - name: leaf-3_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 35}
+        - {x: -82, y: 0}
+        - {x: -82, y: -13}
+        - {x: -78, y: -14}
+        - {x: 22, y: -14}
+        - {x: 74, y: 0}
+        - {x: 85, y: 18}
+        - {x: 85, y: 35}
+      - - {x: 21, y: -7}
+        - {x: 24, y: -6}
+        - {x: 24, y: -3}
+        - {x: 21, y: -2}
+        - {x: 19, y: -4}
+    - name: leaf-3_29
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 16}
+        - {x: -74, y: 11}
+        - {x: -83, y: 3}
+        - {x: -83, y: -9}
+        - {x: -61, y: -32}
+        - {x: 42, y: -32}
+        - {x: 85, y: -15}
+        - {x: 85, y: 30}
+        - {x: 33, y: 30}
+        - {x: -71, y: 21}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

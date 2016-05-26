@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: fa3744172bc43e64aae5f1c5f3cef8c2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leaf-7_0
+    21300002: leaf-7_1
+    21300004: leaf-7_2
+    21300006: leaf-7_3
+    21300008: leaf-7_4
+    21300010: leaf-7_5
+    21300012: leaf-7_6
+    21300014: leaf-7_7
+    21300016: leaf-7_8
+    21300018: leaf-7_9
+    21300020: leaf-7_10
+    21300022: leaf-7_11
+    21300024: leaf-7_12
+    21300026: leaf-7_13
+    21300028: leaf-7_14
+    21300030: leaf-7_15
+    21300032: leaf-7_16
+    21300034: leaf-7_17
+    21300036: leaf-7_18
+    21300038: leaf-7_19
+    21300040: leaf-7_20
+    21300042: leaf-7_21
+    21300044: leaf-7_22
+    21300046: leaf-7_23
+    21300048: leaf-7_24
+    21300050: leaf-7_25
+    21300052: leaf-7_26
+    21300054: leaf-7_27
+    21300056: leaf-7_28
+    21300058: leaf-7_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: leaf-7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 27}
+        - {x: -82.5, y: 17}
+        - {x: -82.5, y: -46}
+        - {x: 12.5, y: -46}
+        - {x: 46.5, y: -42}
+        - {x: 79.5, y: 7}
+        - {x: 79.5, y: 27}
+    - name: leaf-7_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 480
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.5, y: 26}
+        - {x: 44.5, y: 26}
+        - {x: -77.5, y: 9}
+        - {x: -82.5, y: 0}
+        - {x: -82.5, y: -38}
+        - {x: -19.5, y: -38}
+        - {x: 53.5, y: -15}
+        - {x: 80.5, y: 19}
+        - {x: 80.5, y: 25}
+    - name: leaf-7_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 480
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.5, y: 26}
+        - {x: -82.5, y: 0}
+        - {x: -82.5, y: -32}
+        - {x: -29.5, y: -32}
+        - {x: 47.5, y: -15}
+        - {x: 80.5, y: 16}
+        - {x: 80.5, y: 26}
+    - name: leaf-7_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 480
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 28}
+        - {x: -82.5, y: 8}
+        - {x: -82.5, y: -31}
+        - {x: -31.5, y: -31}
+        - {x: 82.5, y: 2}
+        - {x: 82.5, y: 28}
+    - name: leaf-7_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 480
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: -39}
+        - {x: -3.5, y: -39}
+        - {x: 82.5, y: 1}
+        - {x: 82.5, y: 24}
+        - {x: -18.5, y: 24}
+        - {x: -82.5, y: 2}
+    - name: leaf-7_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 480
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 19}
+        - {x: -11.5, y: 19}
+        - {x: -75.5, y: 15}
+        - {x: -82.5, y: -10}
+        - {x: -82.5, y: -51}
+        - {x: -36.5, y: -51}
+        - {x: 55.5, y: -20}
+        - {x: 79.5, y: 8}
+        - {x: 79.5, y: 12}
+        - {x: 78.5, y: 14}
+    - name: leaf-7_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24}
+        - {x: -25.5, y: 23}
+        - {x: -26.5, y: 17}
+        - {x: -25.5, y: 14}
+        - {x: -22.5, y: 14}
+        - {x: -24.5, y: 14}
+        - {x: -30.5, y: 15}
+        - {x: -54.5, y: 20}
+        - {x: -82.5, y: -10}
+        - {x: -82.5, y: -57}
+        - {x: -81.5, y: -58}
+        - {x: -30.5, y: -58}
+        - {x: -1.5, y: -55}
+        - {x: 81.5, y: 0}
+        - {x: 81.5, y: 11}
+        - {x: 55.5, y: 24}
+    - name: leaf-7_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 360
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 29}
+        - {x: -32.5, y: 29}
+        - {x: -71.5, y: 24}
+        - {x: -81.5, y: -9}
+        - {x: -81.5, y: -27}
+        - {x: -77.5, y: -37}
+        - {x: -70.5, y: -54}
+        - {x: -66.5, y: -60}
+        - {x: -18.5, y: -60}
+        - {x: 64.5, y: -24}
+        - {x: 82.5, y: -8}
+        - {x: 82.5, y: 16}
+    - name: leaf-7_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 360
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 33}
+        - {x: -69.5, y: 27}
+        - {x: -80.5, y: -6}
+        - {x: -80.5, y: -46}
+        - {x: -59.5, y: -60}
+        - {x: 25.5, y: -60}
+        - {x: 82.5, y: -17}
+        - {x: 82.5, y: 22}
+        - {x: 46.5, y: 33}
+    - name: leaf-7_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 360
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 38}
+        - {x: -61.5, y: 37}
+        - {x: -72.5, y: 16}
+        - {x: -78.5, y: 5}
+        - {x: -78.5, y: -18}
+        - {x: -51.5, y: -53}
+        - {x: -23.5, y: -59}
+        - {x: 28.5, y: -59}
+        - {x: 82.5, y: -34}
+        - {x: 82.5, y: 22}
+        - {x: 45.5, y: 38}
+    - name: leaf-7_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 360
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -56}
+        - {x: 26.5, y: -47}
+        - {x: 44.5, y: -44}
+        - {x: 82.5, y: -3}
+        - {x: 82.5, y: 30}
+        - {x: 50.5, y: 43}
+        - {x: -11.5, y: 43}
+        - {x: -72.5, y: 23}
+        - {x: -76.5, y: 10}
+        - {x: -76.5, y: -7}
+        - {x: -46.5, y: -37}
+        - {x: 4.5, y: -60}
+        - {x: 14.5, y: -60}
+        - {x: 14.5, y: -58}
+        - {x: 13.5, y: -55}
+        - {x: 8.5, y: -53}
+    - name: leaf-7_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 360
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 47}
+        - {x: -37.5, y: 47}
+        - {x: -75.5, y: 35}
+        - {x: -75.5, y: 6}
+        - {x: -66.5, y: -2}
+        - {x: 17.5, y: -46}
+        - {x: 47.5, y: -46}
+        - {x: 82.5, y: -3}
+        - {x: 82.5, y: 21}
+        - {x: 77.5, y: 36}
+    - name: leaf-7_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 42}
+        - {x: 37.5, y: 49}
+        - {x: -27.5, y: 49}
+        - {x: -74.5, y: 32}
+        - {x: -74.5, y: 8}
+        - {x: 11.5, y: -39}
+        - {x: 53.5, y: -39}
+        - {x: 69.5, y: -15}
+        - {x: 80.5, y: 10}
+        - {x: 80.5, y: 23}
+    - name: leaf-7_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 240
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 49}
+        - {x: -82.5, y: 24}
+        - {x: -82.5, y: 18}
+        - {x: -64.5, y: 0}
+        - {x: 26.5, y: -31}
+        - {x: 73.5, y: -31}
+        - {x: 77.5, y: -29}
+        - {x: 77.5, y: 38}
+        - {x: 74.5, y: 49}
+    - name: leaf-7_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 240
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 56}
+        - {x: -81.5, y: 27}
+        - {x: -81.5, y: -24}
+        - {x: 73.5, y: -24}
+        - {x: 73.5, y: 56}
+    - name: leaf-7_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 240
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 60}
+        - {x: -30.5, y: 56}
+        - {x: -76.5, y: 29}
+        - {x: -76.5, y: -1}
+        - {x: -19.5, y: -15}
+        - {x: 66.5, y: -15}
+        - {x: 69.5, y: 2}
+        - {x: 69.5, y: 45}
+        - {x: 43.5, y: 60}
+    - name: leaf-7_16
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 240
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 60}
+        - {x: -17.5, y: 47}
+        - {x: -23.5, y: 42}
+        - {x: -28.5, y: 48}
+        - {x: -42.5, y: 56}
+        - {x: -76.5, y: 25}
+        - {x: -76.5, y: -10}
+        - {x: 68.5, y: -10}
+        - {x: 68.5, y: 57}
+        - {x: 51.5, y: 60}
+    - name: leaf-7_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 240
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: 59}
+        - {x: -74.5, y: 34}
+        - {x: -74.5, y: -5}
+        - {x: -60.5, y: -15}
+        - {x: -5.5, y: -15}
+        - {x: 62.5, y: 2}
+        - {x: 65.5, y: 12}
+        - {x: 65.5, y: 59}
+    - name: leaf-7_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 55}
+        - {x: -75.5, y: 22}
+        - {x: -75.5, y: 1}
+        - {x: -66.5, y: -18}
+        - {x: -46.5, y: -20}
+        - {x: -26.5, y: -20}
+        - {x: 53.5, y: 12}
+        - {x: 66.5, y: 23}
+        - {x: 66.5, y: 55}
+    - name: leaf-7_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 120
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 49}
+        - {x: -69.5, y: 40}
+        - {x: -77.5, y: 11}
+        - {x: -77.5, y: -21}
+        - {x: -75.5, y: -26}
+        - {x: -18.5, y: -26}
+        - {x: 72.5, y: 11}
+        - {x: 72.5, y: 49}
+    - name: leaf-7_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 120
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 41}
+        - {x: 28.5, y: 40}
+        - {x: 10.5, y: 43}
+        - {x: -56.5, y: 43}
+        - {x: -80.5, y: 32}
+        - {x: -80.5, y: -16}
+        - {x: -68.5, y: -34}
+        - {x: -15.5, y: -34}
+        - {x: 66.5, y: 34}
+        - {x: 66.5, y: 38}
+        - {x: 65.5, y: 40}
+      - - {x: 66.5, y: 39}
+        - {x: 67.5, y: 36}
+        - {x: 70.5, y: 36}
+        - {x: 79.5, y: 41}
+        - {x: 78.5, y: 44}
+        - {x: 70.5, y: 44}
+    - name: leaf-7_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 120
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 44}
+        - {x: -82.5, y: -32}
+        - {x: -66.5, y: -41}
+        - {x: -5.5, y: -41}
+        - {x: 69.5, y: 31}
+        - {x: 69.5, y: 44}
+    - name: leaf-7_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 120
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 44}
+        - {x: -82.5, y: 16}
+        - {x: -82.5, y: -29}
+        - {x: -71.5, y: -47}
+        - {x: -7.5, y: -47}
+        - {x: 6.5, y: -44}
+        - {x: 58.5, y: 22}
+        - {x: 58.5, y: 44}
+    - name: leaf-7_23
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 120
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 46}
+        - {x: -82.5, y: 22}
+        - {x: -82.5, y: -38}
+        - {x: -72.5, y: -54}
+        - {x: 2.5, y: -54}
+        - {x: 59.5, y: 10}
+        - {x: 59.5, y: 46}
+    - name: leaf-7_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 46}
+        - {x: -82.5, y: -41}
+        - {x: -59.5, y: -59}
+        - {x: -21.5, y: -59}
+        - {x: 8.5, y: -55}
+        - {x: 61.5, y: -7}
+        - {x: 61.5, y: 46}
+    - name: leaf-7_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 44}
+        - {x: -7.5, y: 44}
+        - {x: -30.5, y: 37}
+        - {x: -69.5, y: 33}
+        - {x: -82.5, y: 17}
+        - {x: -82.5, y: -50}
+        - {x: -80.5, y: -60}
+        - {x: 31.5, y: -60}
+        - {x: 67.5, y: -19}
+        - {x: 67.5, y: 18}
+        - {x: 61.5, y: 29}
+    - name: leaf-7_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 42}
+        - {x: -76.5, y: 24}
+        - {x: -82.5, y: 4}
+        - {x: -82.5, y: -48}
+        - {x: -62.5, y: -60}
+        - {x: 29.5, y: -60}
+        - {x: 74.5, y: -19}
+        - {x: 74.5, y: 16}
+        - {x: 44.5, y: 42}
+    - name: leaf-7_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.5, y: 12}
+        - {x: 69.5, y: 24}
+        - {x: 50.5, y: 38}
+        - {x: -45.5, y: 38}
+        - {x: -82.5, y: 24}
+        - {x: -82.5, y: -60}
+        - {x: 16.5, y: -60}
+        - {x: 43.5, y: -47}
+        - {x: 77.5, y: 0}
+        - {x: 78.5, y: 2}
+    - name: leaf-7_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.5, y: 33}
+        - {x: -53.5, y: 33}
+        - {x: -82.5, y: 2}
+        - {x: -82.5, y: -56}
+        - {x: -72.5, y: -59}
+        - {x: -6.5, y: -59}
+        - {x: 52.5, y: -37}
+        - {x: 81.5, y: 0}
+        - {x: 81.5, y: 18}
+    - name: leaf-7_29
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 165
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 27}
+        - {x: -40.5, y: 25}
+        - {x: -35.5, y: 17}
+        - {x: -32.5, y: 13}
+        - {x: -33.5, y: 14}
+        - {x: -51.5, y: 21}
+        - {x: -70.5, y: 16}
+        - {x: -82.5, y: 1}
+        - {x: -82.5, y: -38}
+        - {x: -79.5, y: -46}
+        - {x: -69.5, y: -53}
+        - {x: -6.5, y: -53}
+        - {x: 43.5, y: -38}
+        - {x: 81.5, y: 12}
+        - {x: 81.5, y: 25}
+        - {x: 78.5, y: 27}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

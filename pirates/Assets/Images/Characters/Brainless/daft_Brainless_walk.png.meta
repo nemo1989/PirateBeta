@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 1dca87428646ad94facced7b2355ae2a
+timeCreated: 1441036962
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: daft_Brainless_walk_0
+    21300002: daft_Brainless_walk_1
+    21300004: daft_Brainless_walk_2
+    21300006: daft_Brainless_walk_3
+    21300008: daft_Brainless_walk_4
+    21300010: daft_Brainless_walk_5
+    21300012: daft_Brainless_walk_6
+    21300014: daft_Brainless_walk_7
+    21300016: daft_Brainless_walk_8
+    21300018: daft_Brainless_walk_9
+    21300020: daft_Brainless_walk_10
+    21300022: daft_Brainless_walk_11
+    21300024: daft_Brainless_walk_12
+    21300026: daft_Brainless_walk_13
+    21300028: daft_Brainless_walk_14
+    21300030: daft_Brainless_walk_15
+    21300032: daft_Brainless_walk_16
+    21300034: daft_Brainless_walk_17
+    21300036: daft_Brainless_walk_18
+    21300038: daft_Brainless_walk_19
+    21300040: daft_Brainless_walk_20
+    21300042: daft_Brainless_walk_21
+    21300044: daft_Brainless_walk_22
+    21300046: daft_Brainless_walk_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: daft_Brainless_walk_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 304
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 307
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 306
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 305
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 307
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 305
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 212
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 213
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 214
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 212
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 214
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 214
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 121
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 122
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 124
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 121
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 123
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_17
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 124
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 27
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 27
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_21
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 27
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 28
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: daft_Brainless_walk_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 27
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

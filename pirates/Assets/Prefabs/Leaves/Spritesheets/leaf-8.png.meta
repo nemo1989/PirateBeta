@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 0b7115c14c5052b4b86d00916e982eb1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leaf-8_0
+    21300002: leaf-8_1
+    21300004: leaf-8_2
+    21300006: leaf-8_3
+    21300008: leaf-8_4
+    21300010: leaf-8_5
+    21300012: leaf-8_6
+    21300014: leaf-8_7
+    21300016: leaf-8_8
+    21300018: leaf-8_9
+    21300020: leaf-8_10
+    21300022: leaf-8_11
+    21300024: leaf-8_12
+    21300026: leaf-8_13
+    21300028: leaf-8_14
+    21300030: leaf-8_15
+    21300032: leaf-8_16
+    21300034: leaf-8_17
+    21300036: leaf-8_18
+    21300038: leaf-8_19
+    21300040: leaf-8_20
+    21300042: leaf-8_21
+    21300044: leaf-8_22
+    21300046: leaf-8_23
+    21300048: leaf-8_24
+    21300050: leaf-8_25
+    21300052: leaf-8_26
+    21300054: leaf-8_27
+    21300056: leaf-8_28
+    21300058: leaf-8_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: leaf-8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 44}
+        - {x: -37.5, y: 44}
+        - {x: -77.5, y: 25}
+        - {x: -77.5, y: -10}
+        - {x: -51.5, y: -40}
+        - {x: 82.5, y: -40}
+        - {x: 82.5, y: -21}
+        - {x: 59.5, y: 16}
+    - name: leaf-8_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 520
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 38}
+        - {x: -77.5, y: 7}
+        - {x: -27.5, y: -31}
+        - {x: 30.5, y: -37}
+        - {x: 82.5, y: -37}
+        - {x: 82.5, y: 11}
+        - {x: -0.5, y: 38}
+    - name: leaf-8_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 520
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 37}
+        - {x: -33.5, y: 35}
+        - {x: -33.5, y: 33}
+        - {x: -31.5, y: 31}
+        - {x: -37.5, y: 33}
+        - {x: -57.5, y: 32}
+        - {x: -74.5, y: 31}
+        - {x: -76.5, y: 28}
+        - {x: -76.5, y: 15}
+        - {x: -44.5, y: -14}
+        - {x: 16.5, y: -40}
+        - {x: 82.5, y: -40}
+        - {x: 82.5, y: -30}
+        - {x: -25.5, y: 37}
+    - name: leaf-8_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 520
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: 33}
+        - {x: -79.5, y: 26}
+        - {x: -16.5, y: -18}
+        - {x: 22.5, y: -33}
+        - {x: 68.5, y: -44}
+        - {x: 82.5, y: -44}
+        - {x: 82.5, y: -23}
+        - {x: -39.5, y: 33}
+    - name: leaf-8_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 520
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 38}
+        - {x: -74.5, y: 38}
+        - {x: -74.5, y: 21}
+        - {x: 17.5, y: -44}
+        - {x: 67.5, y: -54}
+        - {x: 80.5, y: -54}
+        - {x: 80.5, y: -38}
+        - {x: 79.5, y: -25}
+    - name: leaf-8_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 520
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: 43}
+        - {x: -70.5, y: 36}
+        - {x: -70.5, y: 13}
+        - {x: -11.5, y: -33}
+        - {x: 64.5, y: -61}
+        - {x: 72.5, y: -61}
+        - {x: 74.5, y: -60}
+        - {x: 74.5, y: -56}
+        - {x: 72.5, y: -49}
+        - {x: -28.5, y: 34}
+        - {x: -55.5, y: 43}
+    - name: leaf-8_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -12}
+        - {x: 31.5, y: -64}
+        - {x: 42.5, y: -60}
+        - {x: 43.5, y: -56}
+        - {x: 40.5, y: -53}
+        - {x: 46.5, y: -59}
+        - {x: 61.5, y: -64}
+        - {x: 66.5, y: -64}
+        - {x: 66.5, y: -52}
+        - {x: -19.5, y: 46}
+        - {x: -63.5, y: 46}
+        - {x: -71.5, y: 45}
+        - {x: -72.5, y: 43}
+    - name: leaf-8_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 390
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 49}
+        - {x: -77.5, y: 33}
+        - {x: -77.5, y: -17}
+        - {x: -24.5, y: -47}
+        - {x: 39.5, y: -65}
+        - {x: 57.5, y: -65}
+        - {x: 57.5, y: -30}
+        - {x: -16.5, y: 49}
+    - name: leaf-8_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 390
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 52}
+        - {x: -82.5, y: 27}
+        - {x: -82.5, y: -41}
+        - {x: -81.5, y: -43}
+        - {x: -5.5, y: -65}
+        - {x: 50.5, y: -65}
+        - {x: 50.5, y: -54}
+        - {x: -16.5, y: 52}
+    - name: leaf-8_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 390
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 54}
+        - {x: -79.5, y: 51}
+        - {x: -82.5, y: 44}
+        - {x: -82.5, y: -30}
+        - {x: -33.5, y: -65}
+        - {x: 43.5, y: -65}
+        - {x: 43.5, y: 0}
+        - {x: -5.5, y: 54}
+    - name: leaf-8_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 390
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: 54}
+        - {x: -82.5, y: 53}
+        - {x: -82.5, y: 10}
+        - {x: -81.5, y: 9}
+        - {x: -82.5, y: 8}
+        - {x: -82.5, y: -35}
+        - {x: -40.5, y: -64}
+        - {x: 37.5, y: -64}
+        - {x: 37.5, y: -34}
+        - {x: 5.5, y: 54}
+    - name: leaf-8_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 390
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 46}
+        - {x: -5.5, y: 53}
+        - {x: -65.5, y: 53}
+        - {x: -80.5, y: 50}
+        - {x: -80.5, y: 1}
+        - {x: -77.5, y: -18}
+        - {x: -16.5, y: -63}
+        - {x: 23.5, y: -63}
+        - {x: 34.5, y: -49}
+        - {x: 34.5, y: -43}
+        - {x: 32.5, y: -37}
+    - name: leaf-8_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 54}
+        - {x: -58.5, y: 54}
+        - {x: -72.5, y: 48}
+        - {x: -72.5, y: -15}
+        - {x: -40.5, y: -60}
+        - {x: 22.5, y: -60}
+        - {x: 33.5, y: -42}
+        - {x: 33.5, y: -19}
+        - {x: 16.5, y: 53}
+    - name: leaf-8_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 260
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 52}
+        - {x: -12.5, y: 56}
+        - {x: -63.5, y: 56}
+        - {x: -63.5, y: 5}
+        - {x: -46.5, y: -26}
+        - {x: -17.5, y: -55}
+        - {x: 2.5, y: -55}
+        - {x: 24.5, y: -51}
+        - {x: 35.5, y: -27}
+        - {x: 35.5, y: -7}
+        - {x: 22.5, y: 49}
+    - name: leaf-8_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 260
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 64}
+        - {x: -50.5, y: 62}
+        - {x: -50.5, y: -8}
+        - {x: -24.5, y: -47}
+        - {x: 39.5, y: -47}
+        - {x: 39.5, y: 63}
+        - {x: 27.5, y: 64}
+    - name: leaf-8_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 260
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 65}
+        - {x: 15.5, y: 65}
+        - {x: 15.5, y: 63}
+        - {x: 1.5, y: 65}
+        - {x: -40.5, y: 65}
+        - {x: -40.5, y: -31}
+        - {x: -24.5, y: -38}
+        - {x: 39.5, y: -38}
+        - {x: 45.5, y: -24}
+        - {x: 45.5, y: 43}
+        - {x: 35.5, y: 61}
+    - name: leaf-8_16
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 260
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 65}
+        - {x: 26.5, y: 65}
+        - {x: 26.5, y: 62}
+        - {x: 31.5, y: 53}
+        - {x: -1.5, y: 65}
+        - {x: -31.5, y: 65}
+        - {x: -34.5, y: 63}
+        - {x: -34.5, y: -13}
+        - {x: -17.5, y: -29}
+        - {x: 47.5, y: -29}
+        - {x: 54.5, y: -3}
+        - {x: 54.5, y: 58}
+    - name: leaf-8_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 260
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 47}
+        - {x: -2.5, y: 65}
+        - {x: -25.5, y: 65}
+        - {x: -30.5, y: 52}
+        - {x: -30.5, y: 2}
+        - {x: -11.5, y: -20}
+        - {x: 43.5, y: -20}
+        - {x: 62.5, y: 4}
+        - {x: 62.5, y: 37}
+        - {x: 61.5, y: 41}
+    - name: leaf-8_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 65}
+        - {x: -20.5, y: 65}
+        - {x: -28.5, y: 42}
+        - {x: -28.5, y: -6}
+        - {x: -2.5, y: -13}
+        - {x: 58.5, y: -13}
+        - {x: 69.5, y: 3}
+        - {x: 69.5, y: 33}
+        - {x: 60.5, y: 42}
+    - name: leaf-8_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 130
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 65}
+        - {x: -29.5, y: 43}
+        - {x: -29.5, y: 8}
+        - {x: -17.5, y: -10}
+        - {x: 55.5, y: -10}
+        - {x: 76.5, y: 2}
+        - {x: 76.5, y: 35}
+        - {x: 2.5, y: 65}
+    - name: leaf-8_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 130
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 65}
+        - {x: -28.5, y: 65}
+        - {x: -31.5, y: 63}
+        - {x: -31.5, y: -15}
+        - {x: 61.5, y: -15}
+        - {x: 82.5, y: -4}
+        - {x: 82.5, y: 14}
+        - {x: 81.5, y: 17}
+    - name: leaf-8_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 130
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 61}
+        - {x: -16.5, y: 61}
+        - {x: -35.5, y: 31}
+        - {x: -35.5, y: -13}
+        - {x: -18.5, y: -22}
+        - {x: 54.5, y: -22}
+        - {x: 73.5, y: -15}
+        - {x: 82.5, y: -11}
+        - {x: 82.5, y: 0}
+    - name: leaf-8_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 130
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 59}
+        - {x: -40.5, y: 38}
+        - {x: -40.5, y: -19}
+        - {x: -10.5, y: -32}
+        - {x: 82.5, y: -32}
+        - {x: 82.5, y: -2}
+        - {x: 7.5, y: 59}
+    - name: leaf-8_23
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 130
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: -18}
+        - {x: 68.5, y: -7}
+        - {x: 59.5, y: 15}
+        - {x: 21.5, y: 55}
+        - {x: -22.5, y: 55}
+        - {x: -45.5, y: 43}
+        - {x: -45.5, y: -23}
+        - {x: -21.5, y: -42}
+        - {x: 81.5, y: -42}
+        - {x: 81.5, y: -21}
+        - {x: 77.5, y: -20}
+    - name: leaf-8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 56}
+        - {x: -51.5, y: 23}
+        - {x: -51.5, y: -14}
+        - {x: -30.5, y: -33}
+        - {x: 5.5, y: -52}
+        - {x: 79.5, y: -52}
+        - {x: 79.5, y: 8}
+        - {x: 23.5, y: 56}
+    - name: leaf-8_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 46}
+        - {x: -57.5, y: 44}
+        - {x: -57.5, y: -24}
+        - {x: -30.5, y: -60}
+        - {x: -19.5, y: -61}
+        - {x: 77.5, y: -61}
+        - {x: 77.5, y: 5}
+        - {x: 57.5, y: 46}
+    - name: leaf-8_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -64}
+        - {x: 76.5, y: -64}
+        - {x: 76.5, y: 23}
+        - {x: 63.5, y: 45}
+        - {x: -63.5, y: 45}
+        - {x: -63.5, y: -19}
+    - name: leaf-8_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 46}
+        - {x: -54.5, y: 46}
+        - {x: -68.5, y: 21}
+        - {x: -68.5, y: -15}
+        - {x: -24.5, y: -61}
+        - {x: 68.5, y: -61}
+        - {x: 76.5, y: -57}
+        - {x: 76.5, y: -6}
+        - {x: 63.5, y: 29}
+    - name: leaf-8_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -13}
+        - {x: -49.5, y: -46}
+        - {x: -39.5, y: -54}
+        - {x: 78.5, y: -54}
+        - {x: 78.5, y: 4}
+        - {x: 67.5, y: 23}
+        - {x: 18.5, y: 47}
+        - {x: -57.5, y: 47}
+        - {x: -72.5, y: 37}
+    - name: leaf-8_29
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 165
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 31}
+        - {x: -19.5, y: 46}
+        - {x: -49.5, y: 46}
+        - {x: -75.5, y: 17}
+        - {x: -75.5, y: -2}
+        - {x: -71.5, y: -7}
+        - {x: -51.5, y: -46}
+        - {x: 80.5, y: -46}
+        - {x: 81.5, y: -41}
+        - {x: 81.5, y: -24}
+        - {x: 58.5, y: 8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
