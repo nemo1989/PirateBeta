@@ -46,6 +46,11 @@ public class collisionScript : MonoBehaviour {
 			collide.gameObject.GetComponent<CannonBallScript> ().isHit = true;
 
 		}
+        if (collide.gameObject.tag == "Mirror")
+        {
+            collide.gameObject.GetComponent<MirrorScript>().RotateMirror();
+
+        }
 		}
 
 }

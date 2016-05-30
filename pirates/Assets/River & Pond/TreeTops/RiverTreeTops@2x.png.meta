@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c444eea61f333cb42b0442be2f8c5ba8
+guid: 6c8085e9e0ea16f4ba36629e47c4bd65
 TextureImporter:
   fileIDToRecycleName:
     21300000: RiverTreeTops@2x_0
@@ -46,6 +46,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1

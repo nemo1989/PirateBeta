@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 55fe4ff02e207954e9f382d2b356dc5b
+guid: df7678ce4249cc143b45c69905fbba15
 TextureImporter:
   fileIDToRecycleName:
     21300000: AnimWater@2x_0
@@ -67,6 +67,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1

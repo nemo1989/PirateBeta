@@ -6,11 +6,13 @@ public class AiController : MonoBehaviour {
     public GameController controller;
 	public CharacterStates RickState;
 	public BlindTerror[] BadGuy;
-	public BunnyScript bunny;
+	public BunnyScript[] bunny;
 
-	public WalkingBombScript[] WalkingBomb;
+	 GameObject[] WalkingBomb;
 	Transform[] coinHolder;
 	public Transform COINHOLDER;
+	public int distanceForSeeRange;
+  //  public Transform BotLeftNodes
 	int count = 0;
 		
 		
@@ -22,7 +24,7 @@ public class AiController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		RickState.state = CharacterStates.playerStates.WALKING;
-
+        WalkingBomb = GameObject.FindGameObjectsWithTag("WalkingBombs");
 	}
 	
 	// Update is called once per frame
@@ -53,32 +55,34 @@ public class AiController : MonoBehaviour {
 			
 		}
 
-		coinHolder = COINHOLDER.GetComponentsInChildren<Transform>();
-		count = coinHolder.Length - 2;
+		//coinHolder = COINHOLDER.GetComponentsInChildren<Transform>();
+		//count = coinHolder.Length - 2;
 		//Debug.Log (coinHolder.Length);
-		if (count > -1) 
+
+            if (count > -1) 
 		{
-			bunny.GetComponent <AICollectCoins> ().update ();
-		
-		}
+			foreach (BunnyScript bunny1 in bunny){
+			bunny1.GetComponent <AICollectCoins> ().update ();
+			}
+	}
 	}
 
 	void moveToPlayer()
 	{
-		foreach(WalkingBombScript suiBomb in WalkingBomb)
+		foreach(GameObject suiBomb in WalkingBomb)
 		if (suiBomb != null) 
 		{
 			float distanceToPlayer = Vector2.Distance (suiBomb.transform.position, player.transform.position);
 		
 
 		
-			if (distanceToPlayer <= 2 && !suiBomb.hasExploded) {
-				suiBomb.transform.position = Vector2.MoveTowards (suiBomb.transform.position, new Vector3 (player.transform.position.x, suiBomb.transform.position.y, suiBomb.transform.position.z), Time.deltaTime * suiBomb.speed);
-				suiBomb.transform.position = Vector2.MoveTowards (suiBomb.transform.position, new Vector3 (suiBomb.transform.position.x, player.transform.position.y, suiBomb.transform.position.z), Time.deltaTime * suiBomb.speed);
+			if (distanceToPlayer <= 5 && !suiBomb.gameObject.GetComponent<WalkingBombScript>().hasExploded) {
+				suiBomb.transform.position = Vector2.MoveTowards (suiBomb.transform.position, new Vector3 (player.transform.position.x, suiBomb.transform.position.y, suiBomb.transform.position.z), Time.deltaTime * suiBomb.gameObject.GetComponent<WalkingBombScript>().speed);
+                suiBomb.transform.position = Vector2.MoveTowards(suiBomb.transform.position, new Vector3(suiBomb.transform.position.x, player.transform.position.y, suiBomb.transform.position.z), Time.deltaTime * suiBomb.gameObject.GetComponent<WalkingBombScript>().speed);
 			}
 			if (distanceToPlayer <= 0.7f) 
 			{
-				suiBomb.hasExploded = true;
+                suiBomb.gameObject.GetComponent<WalkingBombScript>().hasExploded = true;
 			}
 
 		}
@@ -95,7 +99,7 @@ public class AiController : MonoBehaviour {
 			float distanceToPlayer = Vector2.Distance (badGuy.transform.position, player.transform.position);
 
 
-			if (RickState.bellPressed == true && distanceToPlayer <= 4)
+			if (RickState.bellPressed == true && distanceToPlayer <= distanceForSeeRange)
 			{
 				if(!badGuy.SetCourse)
 				{

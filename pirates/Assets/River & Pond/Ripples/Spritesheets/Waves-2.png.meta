@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e34f7ac2640699447acea9ab58e85830
+guid: 4879041d47a86e845afa1257e0ba5619
 TextureImporter:
   fileIDToRecycleName:
     21300000: wave-one-circle_00001
@@ -54,6 +54,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1

@@ -33,8 +33,10 @@ public void LoadSceneSummer(int Scene)
             print("load Scene 1");
             Application.LoadLevel("SummerLevel1");
             break;
-       
-
+        case 2:
+            print("load scene");
+            Application.LoadLevel("Bunny Level 5");
+            break;
     }
 
 

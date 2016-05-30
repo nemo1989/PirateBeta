@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bac4467cb5dc5ba4884755e87a0947f2
+guid: 829f4eb64897eb844a700437e124cb21
 TextureImporter:
   fileIDToRecycleName:
     21300000: Waves-1_00000
@@ -62,6 +62,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1

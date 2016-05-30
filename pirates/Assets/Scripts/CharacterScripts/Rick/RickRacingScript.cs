@@ -4,6 +4,7 @@ using System.Collections;
 public class RickRacingScript : MonoBehaviour 
 {
     public GameController controller;
+	public static bool RaceBootsOn=false;
     Animator anim;
     Rigidbody2D _rigibody2d;
     float speed;
@@ -12,8 +13,11 @@ public class RickRacingScript : MonoBehaviour
     GameObject hitBox;
     AudioSource source;
     public AudioClip auidoWalkingSound;
-    bool left, right, up;
+    bool left, right,down, up;
     public bool isWalking;
+    public float accleration;
+    bool isBreakActive;
+    public float VerticalMovement;
     // Use this for initialization
     void Start()
     {
@@ -29,7 +33,10 @@ public class RickRacingScript : MonoBehaviour
         GetComponent<SpriteRenderer>().sortingOrder = Mathf.RoundToInt(transform.position.y * 100f) * -1;
        
         WalkingSound();
-
+		if (accleration > 3) {
+			accleration-=1;
+		
+		}
     }
 
     void FixedUpdate()
@@ -38,29 +45,65 @@ public class RickRacingScript : MonoBehaviour
         MoveCharacter();
     }
 
-   
+    public void Crashed()
+    {
+        speed -= 100;
+        if (speed < 0)
+        {
+            speed = 0;
+        }
+    }
     void MoveCharacter()
     {
         WalkAnimation(0, 1, true);
-
-        _rigibody2d.velocity = new Vector2(0, speed * Time.fixedDeltaTime);
-
-        if (Input.GetKey(KeyCode.UpArrow) || up == true)
+        if (Input.GetKey(KeyCode.DownArrow) || down)
         {
-            speed = Boost;
-            _rigibody2d.velocity = new Vector2(0, speed * Time.fixedDeltaTime);
+            speed -= 5;
+            isBreakActive = true;
+            if (speed <= 0)
+            {
+                speed = 0;
+            }
         }
-
         else
-
         {
-            speed = actualSpeed;
-            _rigibody2d.velocity = new Vector2(0, speed * Time.fixedDeltaTime);
+            isBreakActive = false;
         }
+     
+
+        if (Input.GetKey (KeyCode.UpArrow) || up == true) {
+			if (!isBreakActive) {
+				if (speed < actualSpeed) {
+					speed += accleration;
+					_rigibody2d.velocity = new Vector2 (0, speed * Time.fixedDeltaTime);
+				} else {
+					
+					_rigibody2d.velocity = new Vector2 (0, speed * Time.fixedDeltaTime);
+				}
+			}
+		
+//            speed = Boost;
+//            _rigibody2d.velocity = new Vector2(0, speed * Time.fixedDeltaTime);
+		} else 
+		{
+			speed -= 0.5f;
+			isBreakActive = true;
+			if (speed <= 0)
+			{
+				speed = 0;
+			}
+		}
+
+        
+
+        
+		_rigibody2d.velocity = new Vector2(0, speed * Time.fixedDeltaTime);
+          
+        
       
             if (Input.GetKey(KeyCode.LeftArrow) || left == true)
             {
-                _rigibody2d.velocity = new Vector2(-actualSpeed * Time.fixedDeltaTime, speed * Time.fixedDeltaTime);
+                _rigibody2d.velocity = new Vector2(-speed * Time.fixedDeltaTime, speed * Time.fixedDeltaTime);
                 
     
             }
@@ -68,7 +111,7 @@ public class RickRacingScript : MonoBehaviour
              if (Input.GetKey(KeyCode.RightArrow) || right == true)
             {
                
-                 _rigibody2d.velocity = new Vector2(actualSpeed * Time.fixedDeltaTime, speed * Time.fixedDeltaTime);
+                 _rigibody2d.velocity = new Vector2(speed * Time.fixedDeltaTime, speed * Time.fixedDeltaTime);
 
              
             }
@@ -99,6 +142,41 @@ public class RickRacingScript : MonoBehaviour
             }
         }
     }
+	
+
+	void OnTriggerEnter2D(Collider2D colide)
+	{
+		if (colide.gameObject.tag == "RacingBoots"){
+			//speed = 300;
+			accleration=150;
+			RaceBootsOn = true;
+			//RefreshBoots = true;
+			colide.gameObject.SetActive(false);
+		}
+	}
+	void OnTriggerStay2D(Collider2D colide)
+	{
+		
+		
+		if (colide.gameObject.tag == "Grass") {
+			speed = 50;
+			Debug.Log("we are on Grass");
+		}
+		else if(colide.gameObject.tag == "Grass")
+		{
+			speed = 200;
+			Debug.Log("on Grass with boots");
+		}
+
+	}
+	void OnCollisionStay2D(Collision2D colide)
+	{Debug.Log("yepp");
+		 if(colide.gameObject.tag == "Rock")
+		{
+			speed = 20;
+			Debug.Log("on Grass with boots");
+		}
+	}
     public void upPressed()
     {
         up = true;
@@ -107,7 +185,14 @@ public class RickRacingScript : MonoBehaviour
     {
         up = false;
     }
-  
+    public void downPressed()
+    {
+        down = true;
+    }
+    public void downReleased()
+    {
+        down = false;
+    }
    
     public void leftPressed()
     {

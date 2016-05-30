@@ -6,9 +6,17 @@ public class FinishLine : MonoBehaviour {
 	// Use this for initialization
 	void OnTriggerEnter2D (Collider2D coll)
 	{
-		if (coll.gameObject.tag == "Player")
+		if (!controller.isItBlindLevel)
 		{
-            controller.win = true;
+			if (coll.gameObject.tag == "Player") {
+				controller.win = true;
+			}
+		} else 
+		{
+			if (coll.gameObject.tag == "Blind") 
+			{
+				controller.win = true;
+			}
 		}
 	}
 }

@@ -5,6 +5,7 @@ public class TrapScript : MonoBehaviour {
 
 	// Use this for initialization
     Animator anim;
+   
 	void Start () 
     {
         anim = GetComponent<Animator>();
@@ -26,6 +27,13 @@ public class TrapScript : MonoBehaviour {
             anim.SetBool("hasEnteredTrap", true);
             col.gameObject.GetComponent<Brainless>().isTraped = true;
            
+        }
+
+        if (col.gameObject.tag == "Bunny")
+        {
+            anim.SetBool("hasEnteredTrap", true);
+            col.gameObject.GetComponent<BunnyScript>().isTraped = true;
+
         }
     }
 }

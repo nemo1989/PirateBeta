@@ -8,10 +8,17 @@ public class GameController : MonoBehaviour {
     public GameObject winObject;
     public GameObject MissionFailedObject;
     public GameObject Controls;
-	bool allSwithdown = true;
+    public bool DoesItCompleteLevelForPuzzle = true;
+    public bool ShowLight = false;
+	public bool allSwithdown = true;
+    public bool isItACoinLevel;
     bool hasDisplayedWinLose;
-    float delay = 0; 
+    public bool isInLight;
+    float delay = 0;
+    float checkTimeoutOfLight;
    public bool IsItPuzzleLevel;
+   public bool isItStayIntheLightLevel;
+	public bool isItBlindLevel;
 	// Use this for initialization
 	void Start () {
 	
@@ -23,7 +30,13 @@ public class GameController : MonoBehaviour {
         CheckAllSwitchAreDown();
         LevelComplete();
         LevelFailed();
-
+        if (isItStayIntheLightLevel)
+        {
+            checkIfPlayerHasLeftLight();
+        }
+        if (LightDestroyer.Checkpoint) {
+        
+        }
 	}
 
 
@@ -42,10 +55,30 @@ public class GameController : MonoBehaviour {
             }
             if (allSwithdown)
             {
+                ShowLight = true;
+            }
+            if (allSwithdown && DoesItCompleteLevelForPuzzle)
+            {
                 win = true;
                
             }
         }
+    }
+    void checkIfPlayerHasLeftLight()
+    {
+        if (!isInLight)
+        {
+            checkTimeoutOfLight += Time.deltaTime;
+            if (checkTimeoutOfLight > 0.1)
+            {
+                gameOver = true;
+            }
+        }
+        else
+        {
+            checkTimeoutOfLight = 0;
+        }
+    
     }
     void LevelComplete()
     {
@@ -89,7 +122,7 @@ public class GameController : MonoBehaviour {
                
                 Controls.SetActive(false);
                 delay += Time.deltaTime;
-                if(delay >= 1)
+                if(delay >= 0.1)
                 { 
                 MissionFailedObject.SetActive(true);
                 Time.timeScale = 0;

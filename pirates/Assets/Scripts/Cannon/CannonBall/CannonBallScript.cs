@@ -71,11 +71,24 @@ public	bool isHit = false;
 	}
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.tag == "Player")
+        if (col.gameObject.tag == "Player" && !controller.GetComponent<GameController>().isItACoinLevel)
         {
             controller.GetComponent<GameController>().gameOver = true;
             Debug.Log("Game Over");
         }
-       
+        if (col.gameObject.tag == "Player" && controller.GetComponent<GameController>().isItACoinLevel)
+        {
+           
+			if(col.gameObject.GetComponent<CharacterStates>().isTakingDamage == false)
+			{
+			col.gameObject.GetComponent<CharacterStates>().isTakingDamage = true;
+			col.gameObject.GetComponent<CoinCollection>().moneyReduction(20);
+			}
+            Destroy(gameObject);
+        }
+        if (col.gameObject.tag == "wall")
+        {
+            Destroy(gameObject);
+        }
     }
 }

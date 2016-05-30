@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: c29f036e57715ed439851358734cf7b3
+timeCreated: 1458597667
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ObjectSheet_0
+    21300002: ObjectSheet_1
+    21300004: ObjectSheet_2
+    21300006: ObjectSheet_3
+    21300008: ObjectSheet_4
+    21300010: ObjectSheet_5
+    21300012: ObjectSheet_6
+    21300014: ObjectSheet_7
+    21300016: ObjectSheet_8
+    21300018: ObjectSheet_9
+    21300020: ObjectSheet_10
+    21300022: ObjectSheet_11
+    21300024: ObjectSheet_12
+    21300026: ObjectSheet_13
+    21300028: ObjectSheet_14
+    21300030: ObjectSheet_15
+    21300032: ObjectSheet_16
+    21300034: ObjectSheet_17
+    21300036: ObjectSheet_18
+    21300038: ObjectSheet_19
+    21300040: ObjectSheet_20
+    21300042: ObjectSheet_21
+    21300044: ObjectSheet_22
+    21300046: ObjectSheet_23
+    21300048: ObjectSheet_24
+    21300050: ObjectSheet_25
+    21300052: ObjectSheet_26
+    21300054: ObjectSheet_27
+    21300056: ObjectSheet_28
+    21300058: ObjectSheet_29
+    21300060: ObjectSheet_30
+    21300062: ObjectSheet_31
+    21300064: ObjectSheet_32
+    21300066: ObjectSheet_33
+    21300068: ObjectSheet_34
+    21300070: ObjectSheet_35
+    21300072: ObjectSheet_36
+    21300074: ObjectSheet_37
+    21300076: ObjectSheet_38
+    21300078: ObjectSheet_39
+    21300080: ObjectSheet_40
+    21300082: ObjectSheet_41
+    21300084: ObjectSheet_42
+    21300086: ObjectSheet_43
+    21300088: ObjectSheet_44
+    21300090: ObjectSheet_45
+    21300092: ObjectSheet_46
+    21300094: ObjectSheet_47
+    21300096: ObjectSheet_48
+    21300098: ObjectSheet_49
+    21300100: ObjectSheet_50
+    21300102: ObjectSheet_51
+    21300104: ObjectSheet_52
+    21300106: ObjectSheet_53
+    21300108: ObjectSheet_54
+    21300110: ObjectSheet_55
+    21300112: ObjectSheet_56
+    21300114: ObjectSheet_57
+    21300116: ObjectSheet_58
+    21300118: ObjectSheet_59
+    21300120: ObjectSheet_60
+    21300122: ObjectSheet_61
+    21300124: ObjectSheet_62
+    21300126: ObjectSheet_63
+    21300128: ObjectSheet_64
+    21300130: ObjectSheet_65
+    21300132: ObjectSheet_66
+    21300134: ObjectSheet_67
+    21300136: ObjectSheet_68
+    21300138: ObjectSheet_69
+    21300140: ObjectSheet_70
+    21300142: ObjectSheet_71
+    21300144: ObjectSheet_72
+    21300146: ObjectSheet_73
+    21300148: ObjectSheet_74
+    21300150: ObjectSheet_75
+    21300152: ObjectSheet_76
+    21300154: ObjectSheet_77
+    21300156: ObjectSheet_78
+    21300158: ObjectSheet_79
+    21300160: ObjectSheet_80
+    21300162: ObjectSheet_81
+    21300164: ObjectSheet_82
+    21300166: ObjectSheet_83
+    21300168: ObjectSheet_84
+    21300170: ObjectSheet_85
+    21300172: ObjectSheet_86
+    21300174: ObjectSheet_87
+    21300176: ObjectSheet_88
+    21300178: ObjectSheet_89
+    21300180: ObjectSheet_90
+    21300182: ObjectSheet_91
+    21300184: ObjectSheet_92
+    21300186: ObjectSheet_93
+    21300188: ObjectSheet_94
+    21300190: ObjectSheet_95
+    21300192: ObjectSheet_96
+    21300194: ObjectSheet_97
+    21300196: ObjectSheet_98
+    21300198: ObjectSheet_99
+    21300200: ObjectSheet_100
+    21300202: ObjectSheet_101
+    21300204: ObjectSheet_102
+    21300206: ObjectSheet_103
+    21300208: ObjectSheet_104
+    21300210: ObjectSheet_105
+    21300212: ObjectSheet_106
+    21300214: ObjectSheet_107
+    21300216: ObjectSheet_108
+    21300218: ObjectSheet_109
+    21300220: ObjectSheet_110
+    21300222: ObjectSheet_111
+    21300224: ObjectSheet_112
+    21300226: ObjectSheet_113
+    21300228: ObjectSheet_114
+    21300230: ObjectSheet_115
+    21300232: ObjectSheet_116
+    21300234: ObjectSheet_117
+    21300236: ObjectSheet_118
+    21300238: ObjectSheet_119
+    21300240: ObjectSheet_120
+    21300242: ObjectSheet_121
+    21300244: ObjectSheet_122
+    21300246: ObjectSheet_123
+    21300248: ObjectSheet_124
+    21300250: ObjectSheet_125
+    21300252: ObjectSheet_126
+    21300254: ObjectSheet_127
+    21300256: ObjectSheet_128
+    21300258: ObjectSheet_129
+    21300260: ObjectSheet_130
+    21300262: ObjectSheet_131
+    21300264: ObjectSheet_132
+    21300266: ObjectSheet_133
+    21300268: ObjectSheet_134
+    21300270: ObjectSheet_135
+    21300272: ObjectSheet_136
+    21300274: ObjectSheet_137
+    21300276: ObjectSheet_138
+    21300278: ObjectSheet_139
+    21300280: ObjectSheet_140
+    21300282: ObjectSheet_141
+    21300284: ObjectSheet_142
+    21300286: ObjectSheet_143
+    21300288: ObjectSheet_144
+    21300290: ObjectSheet_145
+    21300292: ObjectSheet_146
+    21300294: ObjectSheet_147
+    21300296: ObjectSheet_148
+    21300298: ObjectSheet_149
+    21300300: ObjectSheet_150
+    21300302: ObjectSheet_151
+    21300304: ObjectSheet_152
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ObjectSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 40
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 415
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 502
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 446
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 414
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 430
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 430
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 430
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 430
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 408
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 467
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 407
+        width: 34
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 490
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 466
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 473
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 474
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 463
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 429
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 446
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 447
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 447
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 433
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 415
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 416
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 386
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 434
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 434
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 417
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 418
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 418
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 419
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 419
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 421
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 344
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 314
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 410
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 410
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 402
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 380
+        width: 106
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 405
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 382
+        width: 112
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 314
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 40
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 356
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 353
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 267
+        width: 32
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 261
+        width: 37
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_49
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 296
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_50
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 296
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_51
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 287
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 333
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_54
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 338
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 323
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 322
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_57
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 325
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 326
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_59
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 258
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_60
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 306
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 310
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 305
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 307
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 305
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_66
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 301
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_67
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 229
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_68
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 291
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_69
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 214
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_71
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 288
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 269
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_73
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 269
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 280
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 279
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_76
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 259
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_78
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 269
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 268
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 271
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 256
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_82
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 262
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_83
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 265
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 249
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_85
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 227
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_86
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 252
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 258
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_88
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 233
+        width: 108
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_90
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 224
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_91
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 204
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 213
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_94
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 214
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 220
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_96
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_97
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 211
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_99
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 190
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_100
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 101
+        width: 37
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 101
+        width: 37
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_102
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 188
+        width: 108
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_104
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 157
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_105
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 157
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 118
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_107
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 128
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_108
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 173
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_109
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 162
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_110
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 152
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_111
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 172
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_112
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 179
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_115
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 135
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_116
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_117
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 144
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_118
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 126
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_119
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 116
+        width: 110
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_120
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_121
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 136
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_122
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 132
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_124
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 114
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_125
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 90
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_126
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 121
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_127
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 115
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_128
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 84
+        width: 106
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_129
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 109
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_130
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_131
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 93
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_132
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 93
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 112
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_134
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 45
+        width: 108
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 78
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_136
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 81
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_137
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 77
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_138
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 31
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_139
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 25
+        width: 111
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_140
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 55
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 111
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_142
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 50
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_143
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 50
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_144
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_145
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_146
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 41
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_147
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 38
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_149
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_150
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_151
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObjectSheet_152
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 10
+        width: 108
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

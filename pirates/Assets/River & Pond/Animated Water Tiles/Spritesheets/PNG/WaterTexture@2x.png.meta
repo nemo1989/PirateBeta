@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: eea677875ae28424d92ccee8f32811b4
+guid: fba950181940d5b43919a9bf329db6bc
 TextureImporter:
   fileIDToRecycleName:
     21300000: WaterTexture@2x_0
@@ -67,6 +67,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1

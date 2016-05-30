@@ -19,7 +19,7 @@ public class AvoidCollision : MonoBehaviour {
         {
 
 
-          //  col.gameObject.GetComponent<RickRacingScript>().Crashed();
+            col.gameObject.GetComponent<RickRacingScript>().Crashed();
         }
     }
 }

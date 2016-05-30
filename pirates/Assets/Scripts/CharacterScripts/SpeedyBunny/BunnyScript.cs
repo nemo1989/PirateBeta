@@ -6,13 +6,15 @@ public class BunnyScript : MonoBehaviour {
     public GameController controller;
 	public int coins =0;
 	public float speed = 4;
-	public Text CoinScore;
+	//public Text CoinScore;
 	Animator anim;
 	Rigidbody2D rigi; 
 	float x;
 	float y;
     AudioSource source;
     public AudioClip boingSound;
+    public bool isTraped;
+	public bool isItRacingBunny;
 	// Use this for initialization
 	void Start () 
 	{
@@ -26,43 +28,40 @@ public class BunnyScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-		CoinScore.text = coins.ToString ();
-        playWalkingNoise();
+
+//		CoinScore.text = coins.ToString ();
+      //  playWalkingNoise();
 
 	}
 	
 	void FixedUpdate()
 
-	{
-		if (rigi.velocity.y > 0.7)
+	{if (!isItRacingBunny) {
+			if (rigi.velocity.y > 0.7) {
+				WalkAnimation (0, 3, true);
+			
+			} else if (rigi.velocity.y < -0.7) {
+				WalkAnimation (0, -3, true);
+			
+			} else if (rigi.velocity.x > 0.7) {
+				WalkAnimation (3, 0, true);
+			
+			} else if (rigi.velocity.x < -0.7) {
+				WalkAnimation (-3, 0, true);
+			
+			} else {
+				anim.SetBool ("isWalking", false);
+			}
+		} else
 		{
 			WalkAnimation (0, 3, true);
-			
-		} 
-		else if (rigi.velocity.y < -0.7) 
-		{
-			WalkAnimation (0, -3, true);
-			
-		} 
-		else if (rigi.velocity.x > 0.7)
-		{
-			WalkAnimation (3, 0, true);
-			
-		} 
-		else if (rigi.velocity.x < -0.7)
-		{
-			WalkAnimation (-3, 0, true);
-			
-		} 
-		else 
-		{
-			anim.SetBool("isWalking",false);
 		}
-		
 
 	}
+
     void playWalkingNoise()
     {
+
         if(anim.GetBool("isWalking"))
         {
         if (!source.isPlaying)
@@ -87,7 +86,7 @@ public class BunnyScript : MonoBehaviour {
 		if(col.gameObject.tag == "Coin")
 		{
 			Destroy (col.gameObject);
-			coins++;
+			CoinCollector.coinsum++;
 		}
 	}
 }

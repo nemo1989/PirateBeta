@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 
 public class CoinCollection : MonoBehaviour {
-	public	int coinCount =0;
+	public static int coinCount = 0;
 	public Text Coinscore;
 	public bool isCoinCollectionOn;
 	public AudioClip coinSound;

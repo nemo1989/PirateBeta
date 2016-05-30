@@ -62,7 +62,6 @@
      <Compile Include="Assets\AstarPathfindingProject\Editor\ModifierEditors\RaycastModifierEditor.cs" />
      <Compile Include="Assets\AstarPathfindingProject\Editor\ModifierEditors\SmoothModifierEditor.cs" />
      <Compile Include="Assets\AstarPathfindingProject\Editor\SeekerEditor.cs" />
-     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Editor\CustomTiledImporterAttribute.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Editor\ICustomTiledImporter.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Material.cs" />
@@ -76,11 +75,18 @@
      <Compile Include="Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-8.txt" />
      <None Include="Assets\Prefabs\FlowerLeafsAndBlossoms\Spritesheets\RoseLeafs\RoseLeaf_3.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\Bunny level 5.tiled2unity.xml" />
      <None Include="Assets\AstarPathfindingProject\Editor\EditorAssets\Materials\Navmesh2.shader" />
+     <None Include="Assets\Tiled2Unity\Imported\BunnyRace.tiled2unity.xml" />
      <None Include="Assets\Prefabs\GoldChest\SpriteSheets\GoldChest_Disappear.txt" />
      <None Include="Assets\Animated Trap\SpriteSheets\Trap.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\Bunny level 6.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\FindBunnyLvl6.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\winterMap2.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\Winter4.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Prefabs\_ReadMe.txt" />
      <None Include="Assets\Tiled2Unity\Shaders\shaTiledMap.shader" />
+     <None Include="Assets\Tiled2Unity\Imported\Bunny level 4.tiled2unity.xml" />
      <None Include="Assets\AstarPathfindingProject\Plugins\DotNetZip\DotNetZipLicense.txt" />
      <None Include="Assets\Prefabs\GoldChest\SpriteSheets\BigChest_Idle.txt" />
      <None Include="Assets\Tiled2Unity\Tiled2Unity.export.txt" />
@@ -90,36 +96,54 @@
      <None Include="Assets\AstarPathfindingProject\ExampleScenes\Materials\Projector Multiply.shader" />
      <None Include="Assets\Prefabs\GoldChest\SpriteSheets\BigChest_Disappear.txt" />
      <None Include="Assets\Tiled2Unity\Imported\Level4.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\Winter3.tiled2unity.xml" />
      <None Include="Assets\Resources\test.xml" />
      <None Include="Assets\Prefabs\FlowerLeafsAndBlossoms\Spritesheets\RoseLeafs\RoseLeaf_4.txt" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-3.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\find Bunny level 2.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\mirror13.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Imported\Ship1.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\wall5.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Imported\Level5.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\mirror9.tiled2unity.xml" />
      <None Include="Assets\Prefabs\FlowerLeafsAndBlossoms\Spritesheets\RoseLeafs\RoseLeaf_2.txt" />
      <None Include="Assets\Tiled2Unity\Imported\waterlevel.tiled2unity.xml" />
      <None Include="Assets\AstarPathfindingProject\ExampleScenes\Materials\DiffuseAlwaysVisible.shader" />
+     <None Include="Assets\Tiled2Unity\Imported\mirror7.tiled2unity.xml" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-4.txt" />
      <None Include="Assets\AstarPathfindingProject\Plugins\dependencies.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\Bunny level 3.tiled2unity.xml" />
      <None Include="Assets\Prefabs\FlowerLeafsAndBlossoms\Spritesheets\Blossoms\Blossom_3.txt" />
      <None Include="Assets\AstarPathfindingProject\ExampleScenes\_Example Scenes.txt" />
      <None Include="Assets\Prefabs\RainbowArt\readme.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\Bunny level 1.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Imported\waterlevelRacing.tiled2unity.xml" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-5.txt" />
      <None Include="Assets\Tiled2Unity\Imported\level2.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\wall1.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Imported\level3.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Materials\_ReadMe.txt" />
      <None Include="Assets\AstarPathfindingProject\Readme_upgrading.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\Level4FindBunny.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\winter6.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Textures\_ReadMe.txt" />
      <None Include="Assets\Resources\deadmansgoldlevel0.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\mirror12.tiled2unity.xml" />
      <None Include="Assets\AstarPathfindingProject\ExampleScenes\Materials\Projector Light.shader" />
+     <None Include="Assets\Tiled2Unity\Imported\find Bunny level.tiled2unity.xml" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-9.txt" />
      <None Include="Assets\Tiled2Unity\Imported\TrainningLevel.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\Level11.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Imported\level.tiled2unity.xml" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-2.txt" />
      <None Include="Assets\Tiled2Unity\Imported\SpringLevel3.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\winter7.tiled2unity.xml" />
      <None Include="Assets\AstarPathfindingProject\Readme.txt" />
      <None Include="Assets\Tiled2Unity\Imported\AutumLevel2.tiled2unity.xml" />
      <None Include="Assets\Prefabs\FlowerLeafsAndBlossoms\Spritesheets\RoseLeafs\RoseLeaf_6.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\wall3.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\MirrorLevel.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\wall2.tiled2unity.xml" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-1.txt" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-10.txt" />
      <None Include="Assets\AstarPathfindingProject\Plugins\JsonFx\JsonFxLicense.txt" />
@@ -133,11 +157,14 @@
      <None Include="Assets\Prefabs\GoldChest\SpriteSheets\GoldChest_Idle.txt" />
      <None Include="Assets\Prefabs\Leaves\Spritesheets\leaf-7.txt" />
      <None Include="Assets\Tiled2Unity\Imported\SpringLevel2.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\wall4.tiled2unity.xml" />
+     <None Include="Assets\Tiled2Unity\Imported\mirror6.tiled2unity.xml" />
      <None Include="Assets\AstarPathfindingProject\link.xml" />
      <None Include="Assets\Prefabs\FlowerLeafsAndBlossoms\Spritesheets\Blossoms\Blossom_1.txt" />
+     <None Include="Assets\Tiled2Unity\Imported\winter5.tiled2unity.xml" />
      <None Include="Assets\Tiled2Unity\Meshes\_ReadMe.txt" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/NAEEM/Documents/GitHub/PiratesDemo/pirates/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>C:/Users/NAEEM/Documents/GitHub/PiratesOriginale/pirates/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -155,10 +182,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.Ionic.Zip.Reduced">
- <HintPath>C:/Users/NAEEM/Documents/GitHub/PiratesDemo/pirates/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ <HintPath>C:/Users/NAEEM/Documents/GitHub/PiratesOriginale/pirates/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.JsonFx">
- <HintPath>C:/Users/NAEEM/Documents/GitHub/PiratesDemo/pirates/Assets/AstarPathfindingProject/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
+ <HintPath>C:/Users/NAEEM/Documents/GitHub/PiratesOriginale/pirates/Assets/AstarPathfindingProject/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -196,6 +223,10 @@
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-vs.csproj">
+      <Project>{7E2BE0AC-1914-3BE1-1C59-324ABD39E731}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

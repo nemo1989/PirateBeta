@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class movigObjectScript : MonoBehaviour {
-	float speed = 4f;
+	public static float speed = 4f;
 	public enum states{UP,DOWN,LEFT,RIGHT,STOP};
 	public states moveDirection;
 	bool locked = false;
@@ -11,8 +11,8 @@ public class movigObjectScript : MonoBehaviour {
 	public bool leftMoveable = true,rightMoveable = true,upMoveable =true,downMoveable =true;
 	GameObject player;
 	Move playerState;
-	 float Xspeed;
-	 float Yspeed ;
+	public float Xspeed;
+	public float Yspeed ;
 	// Use this for initialization
 	void Start () {
 		moveDirection = states.STOP;

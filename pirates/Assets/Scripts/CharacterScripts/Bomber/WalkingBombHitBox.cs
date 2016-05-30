@@ -31,8 +31,12 @@ public class WalkingBombHitBox : MonoBehaviour {
                 if (col.gameObject.tag == "Player" && isItCoinCollectionLevel && !hit)
                 {
                     hit = true;
-                    Debug.Log("playerCoinScore is WheelHit");
-                    col.gameObject.GetComponent<CoinCollection>().moneyReduction(CoinsReduction);
+					if(col.gameObject.GetComponent<CharacterStates>().isTakingDamage == false)
+					{
+						col.gameObject.GetComponent<CharacterStates>().isTakingDamage = true;
+						col.gameObject.GetComponent<CoinCollection>().moneyReduction(CoinsReduction);
+					}
+                    
                     
 
                 }

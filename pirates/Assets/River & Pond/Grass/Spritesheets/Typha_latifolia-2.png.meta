@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 354a4f9262af790439d9769dda261e01
+guid: 87b56e4476806514891ed4530f6f02a4
 TextureImporter:
   fileIDToRecycleName:
     21300000: Typha_latifolia-2_0
@@ -40,6 +40,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1

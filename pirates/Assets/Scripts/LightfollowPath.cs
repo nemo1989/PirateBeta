@@ -5,9 +5,11 @@ public class LightfollowPath : MonoBehaviour {
     public GameObject[] node;
     public GameController controller;
     int numberOfNodes;
-    int speed =3;
+   public int speed =3;
     bool reachedArrayLenth = false;
     int i = 0;
+    public float delayTime;
+    float time;
     // Use this for initialization
     void Start()
     {
@@ -22,13 +24,18 @@ public class LightfollowPath : MonoBehaviour {
         {
             if (!controller.win && !controller.gameOver)
             {
-                transform.position = Vector3.MoveTowards(transform.position, node[i].transform.position, speed * Time.deltaTime);
+                transform.position = Vector3.MoveTowards(transform.position,(new Vector3( node[i].transform.position.x,node[i].transform.position.y, node[i].transform.position.z)), speed * Time.deltaTime);
                 if (transform.position == node[i].transform.position && !reachedArrayLenth)
                 {
-
-                    if (i < numberOfNodes - 1)
+                    
+                    if (i < numberOfNodes - 1 )
                     {
-                        i++;
+                        time += Time.deltaTime;
+                        if (time > delayTime)
+                        {
+                            i++;
+                            time = 0;
+                        }
 
                     }
                     else

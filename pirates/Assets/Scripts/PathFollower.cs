@@ -43,9 +43,9 @@ public class PathFollower : MonoBehaviour
 			return;
 		
 		if (Type == FollowType.MoveTowards)
-			transform.position =Vector3.MoveTowards (transform.position, currentPoint.Current.position, Time.deltaTime * Speed);
+			transform.position =Vector3.MoveTowards (transform.position,(new Vector3( currentPoint.Current.position.x,currentPoint.Current.position.y,-1)), Time.deltaTime * Speed);
 		else if (Type == FollowType.Lerp)
-			transform.position = Vector2.Lerp(transform.position, currentPoint.Current.position, Time.deltaTime * Speed);
+            transform.position = Vector3.Lerp(transform.position, (new Vector3(currentPoint.Current.position.x, currentPoint.Current.position.y, currentPoint.Current.position.z - 1)), Time.deltaTime * Speed);
 		
 		var distanceSquared = (transform.position - currentPoint.Current.position).sqrMagnitude;
 		if (distanceSquared < MaxDistanceToGoal * MaxDistanceToGoal)

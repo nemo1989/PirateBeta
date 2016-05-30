@@ -3,6 +3,7 @@ using System.Collections;
 
 public class switchScript : MonoBehaviour {
 	public bool isSwitchDown = false;
+	public static int switchNumber=0;
 	// Use this for initialization
 	void Start () {
 	
@@ -18,6 +19,8 @@ public class switchScript : MonoBehaviour {
 		{
 			isSwitchDown = true;
 			Debug.Log("Swith Is Down");
+		
+			//Destroy(gameObject);
 		}
 
 	}
